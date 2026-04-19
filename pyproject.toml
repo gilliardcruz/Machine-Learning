@@ -1,0 +1,24 @@
+[project]
+name = "previsao-vendas-e-commerce"
+version = "0.2.0"
+description = "Machine Learning application for predicting e-commerce sales based on temporal features"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0.0",
+    "scikit-learn>=1.3.0",
+    "joblib>=1.3.0",
+    "streamlit>=1.28.0",
+    "seaborn>=0.13.0",
+    "numpy>=1.24.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "black>=23.7.0",
+    "flake8>=6.1.0",
+    "mypy>=1.5.0",
+    "types-joblib>=1.3.0",
+]
