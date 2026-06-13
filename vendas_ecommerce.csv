@@ -1,0 +1,1001 @@
+id_compra,data_hora,produto,preco_unitario,quantidade,cliente,cidade,forma_pagamento,frete,avaliacao,valor_total
+37217319,2026-05-25 21:33:48.263831,Fone de Ouvido Bluetooth,98.77,3,Edwin Salas,Porto Alegre,Boleto,11.28,1.0,307.59
+69448075,2026-06-04 21:33:48.264136,SSD 500GB,1789.75,1,Stephanie Olson,Manaus,Débito,6.43,1.0,1796.18
+73250160,2026-02-06 21:33:48.264310,Smartwatch,1035.44,1,Roberto Hull,Fortaleza,Boleto,37.22,,1072.66
+93849667,2026-05-01 21:33:48.264444,Capinha para Celular,479.86,5,Daniel Hill,Curitiba,Cartão de Crédito,39.15,2.0,2438.4500000000003
+68479235,2026-06-09 21:33:48.264575,Capinha para Celular,713.49,2,Jamie Boyle,Porto Alegre,Pix,9.6,4.0,1436.58
+24098604,2026-01-06 21:33:48.264708,Carregador Portátil,1702.61,5,Danielle Coleman,Curitiba,Cartão de Crédito,37.84,5.0,8550.89
+91132085,2026-01-13 21:33:48.264837,Roteador Wi-Fi,788.14,5,Laura Simmons,Curitiba,Pix,30.98,,3971.68
+40423475,2025-12-30 21:33:48.264967,Smartphone X,1339.46,3,Scott Wilson,Rio de Janeiro,Boleto,43.99,4.0,4062.37
+23895284,2026-02-22 21:33:48.265093,Mouse Sem Fio,1289.58,3,Dr. Jenna Olson PhD,Belo Horizonte,Pix,20.99,,3889.7299999999996
+58358622,2026-02-19 21:33:48.265246,SSD 500GB,1876.48,1,Shawn Baker,Manaus,Boleto,29.04,2.0,1905.52
+80975365,2026-01-23 21:33:48.265377,Mouse Sem Fio,789.94,5,Juan Krause,Porto Alegre,Pix,42.93,1.0,3992.63
+16103429,2026-02-09 21:33:48.265505,Caixa de Som,112.6,3,Scott Morales,Salvador,Pix,7.98,5.0,345.78
+9321914,2026-03-03 21:33:48.265633,Smartwatch,1328.11,4,Janet Vazquez,Recife,Boleto,16.92,2.0,5329.36
+70496714,2026-05-05 21:33:48.265762,Teclado Mecânico,562.35,5,Jason Morales,Salvador,Débito,21.29,2.0,2833.04
+76760670,2026-04-22 21:33:48.265890,Mouse Sem Fio,227.27,1,Elizabeth Preston,Rio de Janeiro,Boleto,33.24,,260.51
+64440766,2026-03-31 21:33:48.266019,"Monitor 24""",173.88,4,Timothy Singh,Manaus,Débito,28.81,5.0,724.3299999999999
+25288246,2025-12-15 21:33:48.266155,HD Externo 1TB,1455.41,5,Antonio Stevenson,Curitiba,Pix,10.02,4.0,7287.070000000001
+11352366,2026-01-22 21:33:48.266296,Mouse Sem Fio,56.33,3,Derrick Burton,Fortaleza,Boleto,27.85,1.0,196.84
+60299139,2026-05-22 21:33:48.266425,Tablet Mini,1691.26,5,Ricardo Parsons,Manaus,Boleto,11.88,2.0,8468.179999999998
+91800558,2026-04-30 21:33:48.266556,Câmera Digital,1848.75,1,Ian Whitney,Manaus,Pix,26.99,1.0,1875.74
+58119643,2026-03-15 21:33:48.266688,Roteador Wi-Fi,1971.38,3,Andre Haynes,Porto Alegre,Cartão de Crédito,15.84,5.0,5929.9800000000005
+55597229,2026-01-02 21:33:48.266814,Fone de Ouvido Bluetooth,1477.22,1,Jason Gray,Fortaleza,Boleto,10.78,4.0,1488.0
+69008771,2026-05-02 21:33:48.266940,Notebook Pro,566.86,5,Tara Sutton,Salvador,Boleto,46.8,,2881.1000000000004
+29176090,2026-06-07 21:33:48.267069,Smartwatch,1440.25,4,Lori Smith,Brasília,Débito,45.48,4.0,5806.48
+55234046,2026-01-12 21:33:48.267200,Smartwatch,488.16,3,Diana Grant,São Paulo,Boleto,31.48,1.0,1495.96
+29333311,2025-12-31 21:33:48.267476,SSD 500GB,1280.65,2,Beth Boone,Rio de Janeiro,Cartão de Crédito,43.68,1.0,2604.98
+41822984,2026-04-23 21:33:48.267695,Smartwatch,593.03,4,Melissa Watson,Porto Alegre,Boleto,37.55,5.0,2409.67
+30373996,2026-05-09 21:33:48.267894,Mouse Sem Fio,523.84,4,John Mann,Salvador,Boleto,9.24,,2104.6
+77312491,2026-04-02 21:33:48.268084,Carregador Portátil,875.98,4,Dr. Virginia Roberts MD,São Paulo,Cartão de Crédito,7.73,,3511.65
+32703639,2026-03-09 21:33:48.268359,Câmera Digital,1730.26,2,Debra Jarvis,Porto Alegre,Boleto,29.13,2.0,3489.65
+23695842,2026-03-31 21:33:48.268518,Notebook Pro,593.16,2,Sharon Henry,Rio de Janeiro,Débito,41.36,5.0,1227.6799999999998
+97992882,2026-01-07 21:33:48.268647,Smartphone X,1321.68,5,Michael Kim,São Paulo,Cartão de Crédito,46.69,2.0,6655.09
+31730099,2026-01-24 21:33:48.268774,Capinha para Celular,997.0,2,Cheryl Barnett,Salvador,Cartão de Crédito,12.41,1.0,2006.41
+62989412,2026-03-22 21:33:48.268902,Tablet Mini,1856.71,4,John Williamson,Curitiba,Débito,36.35,,7463.1900000000005
+21673495,2026-05-04 21:33:48.269039,HD Externo 1TB,1450.9,2,Stephanie Welch,Porto Alegre,Pix,14.8,1.0,2916.6000000000004
+32949181,2026-05-10 21:33:48.269167,SSD 500GB,1107.28,3,Christopher Wilson,São Paulo,Cartão de Crédito,31.29,5.0,3353.13
+12183967,2026-04-27 21:33:48.269293,Notebook Pro,160.92,5,Kayla Aguilar,Rio de Janeiro,Boleto,8.08,1.0,812.68
+9686045,2026-06-03 21:33:48.269420,Caixa de Som,508.65,1,Jennifer Clements,Manaus,Boleto,31.05,1.0,539.6999999999999
+64672405,2026-05-20 21:33:48.269551,Fone de Ouvido Bluetooth,867.49,5,Jill Lewis,Manaus,Pix,47.06,2.0,4384.51
+96635126,2026-06-02 21:33:48.269680,SSD 500GB,662.66,3,Candace Harrison,Salvador,Boleto,35.23,3.0,2023.21
+15641985,2026-04-09 21:33:48.269815,Carregador Portátil,1861.59,1,Scott Gordon,São Paulo,Débito,32.95,5.0,1894.54
+19775957,2026-01-07 21:33:48.269940,Fone de Ouvido Bluetooth,1098.39,5,John Fitzgerald,Curitiba,Boleto,47.0,1.0,5538.950000000001
+61739552,2026-02-13 21:33:48.270065,Carregador Portátil,605.73,4,Heather Young,Fortaleza,Pix,32.53,,2455.4500000000003
+62423989,2026-04-27 21:33:48.270192,Smartphone X,1352.33,5,Julie Zamora,Curitiba,Cartão de Crédito,47.25,2.0,6808.9
+75912443,2026-02-18 21:33:48.270319,Fone de Ouvido Bluetooth,1784.94,5,Mrs. Jessica Washington PhD,Belo Horizonte,Pix,17.68,2.0,8942.380000000001
+19447549,2026-03-10 21:33:48.270459,Smartwatch,1390.62,3,Natasha Hernandez,Fortaleza,Débito,16.3,1.0,4188.16
+10333115,2026-01-05 21:33:48.270587,HD Externo 1TB,875.97,3,Lisa Powell,São Paulo,Cartão de Crédito,20.01,2.0,2647.92
+74468175,2026-05-25 21:33:48.270714,Tablet Mini,365.08,4,Tony Jacobson,Fortaleza,Débito,30.24,1.0,1490.56
+36171976,2026-01-01 21:33:48.270838,Roteador Wi-Fi,1397.49,2,Lauren Lucero,Fortaleza,Cartão de Crédito,42.56,5.0,2837.54
+73539916,2026-05-03 21:33:48.270972,Notebook Pro,888.08,1,Anna Simmons,Curitiba,Pix,45.45,1.0,933.5300000000001
+20847904,2026-03-14 21:33:48.271101,Smartwatch,1380.03,1,Ronald Henry,Brasília,Débito,48.82,,1428.85
+86794738,2026-01-21 21:33:48.271230,Roteador Wi-Fi,1863.27,2,Andrew Obrien,Belo Horizonte,Débito,6.12,,3732.66
+76676274,2026-03-08 21:33:48.271355,Câmera Digital,1865.09,2,Anthony Grant,Curitiba,Boleto,40.43,1.0,3770.6099999999997
+62298917,2026-03-20 21:33:48.271484,Caixa de Som,125.51,4,Jeremy Garcia,Porto Alegre,Boleto,41.75,4.0,543.79
+55514344,2026-03-12 21:33:48.271609,Tablet Mini,1650.05,2,Paul Bell,Porto Alegre,Cartão de Crédito,34.7,4.0,3334.7999999999997
+97135909,2026-03-07 21:33:48.271733,Tablet Mini,1735.49,3,Melissa Johnson,Brasília,Débito,35.58,5.0,5242.05
+26710877,2026-03-07 21:33:48.271865,Smartphone X,274.92,3,Steve Spears,Belo Horizonte,Pix,6.72,5.0,831.48
+14825117,2026-04-03 21:33:48.271993,Carregador Portátil,1470.66,3,Joshua Dunn,Salvador,Cartão de Crédito,22.33,5.0,4434.31
+70753576,2026-01-30 21:33:48.272120,Tablet Mini,136.55,4,Troy Bell,São Paulo,Boleto,21.39,1.0,567.59
+19927969,2026-06-01 21:33:48.272247,Roteador Wi-Fi,693.89,3,Mary Santos,Rio de Janeiro,Pix,27.82,,2109.4900000000002
+44895707,2026-03-27 21:33:48.272375,Carregador Portátil,834.68,3,Rebecca White,Fortaleza,Boleto,13.63,,2517.67
+66065992,2026-03-20 21:33:48.272506,HD Externo 1TB,1508.86,2,Benjamin Munoz,Manaus,Pix,23.27,1.0,3040.99
+90170616,2026-02-28 21:33:48.272632,Tablet Mini,459.86,5,Caitlyn Lindsey,Manaus,Pix,25.92,4.0,2325.2200000000003
+45958382,2026-06-03 21:33:48.272760,Smartwatch,1046.79,2,Danielle Francis,Rio de Janeiro,Pix,28.2,,2121.7799999999997
+2690023,2026-05-20 21:33:48.272888,Carregador Portátil,232.11,2,Samantha King,Curitiba,Boleto,41.3,2.0,505.52000000000004
+76727001,2025-12-19 21:33:48.273027,Smartphone X,527.44,4,Sarah Nguyen,Manaus,Cartão de Crédito,25.49,,2135.25
+11431590,2026-05-09 21:33:48.273155,Smartwatch,1450.77,4,Brandon Mckenzie,Recife,Débito,15.98,,5819.0599999999995
+60587655,2026-06-07 21:33:48.273306,Smartphone X,1790.69,1,Jessica Schwartz,Salvador,Boleto,12.91,,1803.6000000000001
+57886636,2026-04-24 21:33:48.273439,Mouse Sem Fio,147.93,2,Nicholas Scott,Rio de Janeiro,Débito,11.0,4.0,306.86
+75057930,2026-06-01 21:33:48.273565,Teclado Mecânico,1976.39,5,Juan Faulkner,Brasília,Débito,32.57,,9914.52
+55118499,2026-04-21 21:33:48.273690,Capinha para Celular,1669.61,5,Keith Stevens,Recife,Boleto,38.46,4.0,8386.509999999998
+52362963,2026-04-07 21:33:48.273814,Tablet Mini,1515.96,3,Jennifer Kane,Fortaleza,Débito,33.2,3.0,4581.08
+21182045,2026-04-04 21:33:48.273942,Fone de Ouvido Bluetooth,1441.41,2,Anne Snyder,Curitiba,Pix,19.39,5.0,2902.21
+24857892,2026-01-02 21:33:48.274070,Notebook Pro,344.12,4,Meghan Trujillo,Belo Horizonte,Boleto,7.89,4.0,1384.3700000000001
+90684760,2026-03-07 21:33:48.274197,Teclado Mecânico,958.55,1,William Jones,Porto Alegre,Débito,22.53,5.0,981.0799999999999
+89290099,2026-06-09 21:33:48.274332,Smartphone X,1720.63,5,Desiree Cox,Salvador,Débito,5.27,3.0,8608.420000000002
+45336773,2026-02-27 21:33:48.274466,Câmera Digital,810.47,4,Alyssa Manning,Fortaleza,Boleto,26.97,3.0,3268.85
+48078043,2026-04-03 21:33:48.274593,Mouse Sem Fio,106.6,3,Melody Thomas,Salvador,Boleto,42.82,2.0,362.61999999999995
+48448437,2026-05-21 21:33:48.274720,Teclado Mecânico,102.58,4,Robert Henderson,Manaus,Cartão de Crédito,8.78,4.0,419.09999999999997
+33665743,2026-01-16 21:33:48.274848,Caixa de Som,950.31,1,Robert Koch,Curitiba,Débito,19.73,4.0,970.04
+99042754,2026-03-06 21:33:48.274981,Carregador Portátil,1534.4,4,Tina Boyer PhD,Curitiba,Débito,16.35,1.0,6153.950000000001
+9646918,2026-04-12 21:33:48.275116,Smartphone X,1510.6,1,Linda Ross,Brasília,Boleto,34.26,,1544.86
+64706624,2025-12-23 21:33:48.275244,Câmera Digital,110.51,2,Shawn Williams,Porto Alegre,Cartão de Crédito,32.96,2.0,253.98000000000002
+14944845,2026-01-14 21:33:48.275370,Mouse Sem Fio,1355.44,5,Brittany Payne,Porto Alegre,Débito,36.48,3.0,6813.68
+91757124,2026-01-24 21:33:48.275496,"Monitor 24""",1234.13,1,Jessica Daniels,Belo Horizonte,Pix,9.86,1.0,1243.99
+34701740,2026-03-02 21:33:48.275625,"Monitor 24""",1370.83,4,Taylor Jones,Salvador,Boleto,8.42,,5491.74
+52640946,2026-05-22 21:33:48.275752,Smartwatch,248.71,3,Kayla Gibson,Manaus,Cartão de Crédito,40.83,5.0,786.96
+40057545,2025-12-23 21:33:48.275879,Carregador Portátil,1088.85,3,Lance Wilson,Rio de Janeiro,Pix,5.57,4.0,3272.12
+82663410,2026-04-17 21:33:48.276004,Fone de Ouvido Bluetooth,895.37,3,Danielle Manning,Recife,Boleto,24.6,,2710.71
+34590013,2026-04-25 21:33:48.276134,HD Externo 1TB,576.66,5,Dr. David Russell,Recife,Débito,24.6,,2907.8999999999996
+94486384,2026-05-13 21:33:48.276268,Tablet Mini,678.49,2,Lauren Carpenter,Rio de Janeiro,Pix,44.67,2.0,1401.65
+16041548,2026-04-10 21:33:48.276396,"Monitor 24""",1240.15,4,Amy Lane,Brasília,Cartão de Crédito,27.24,3.0,4987.84
+68994889,2026-01-28 21:33:48.276523,Mouse Sem Fio,463.63,3,Tara Brown,Brasília,Pix,44.61,,1435.4999999999998
+74477555,2026-02-21 21:33:48.276650,Teclado Mecânico,69.79,2,Vicki Walker,Rio de Janeiro,Boleto,37.4,4.0,176.98000000000002
+20596160,2026-05-04 21:33:48.276777,Câmera Digital,518.63,4,Kimberly Curry,Recife,Débito,40.68,1.0,2115.2
+23373051,2026-02-26 21:33:48.276904,Smartwatch,838.58,2,Garrett Henry,Curitiba,Pix,26.3,5.0,1703.46
+52047730,2026-03-11 21:33:48.277036,Capinha para Celular,1993.43,5,Susan Bailey,Brasília,Pix,36.63,3.0,10003.779999999999
+1672764,2026-03-01 21:33:48.277163,Tablet Mini,499.55,2,Lucas Nguyen,Brasília,Cartão de Crédito,38.43,,1037.53
+33799321,2026-01-29 21:33:48.277293,Smartwatch,471.95,4,Lisa Martin,Curitiba,Pix,49.12,2.0,1936.9199999999998
+14115288,2026-02-26 21:33:48.277424,Smartwatch,753.72,3,Krista Chen,São Paulo,Boleto,17.34,1.0,2278.5
+38181298,2026-05-03 21:33:48.277555,Tablet Mini,1409.96,2,Hector White,Recife,Cartão de Crédito,44.27,5.0,2864.19
+28478734,2026-02-23 21:33:48.277680,Mouse Sem Fio,983.49,3,Susan Krueger,Belo Horizonte,Cartão de Crédito,16.36,4.0,2966.8300000000004
+45719307,2026-01-11 21:33:48.277808,Caixa de Som,177.42,4,Megan Walker,Rio de Janeiro,Cartão de Crédito,11.83,5.0,721.51
+18050991,2026-02-28 21:33:48.277936,Fone de Ouvido Bluetooth,1988.14,1,Kelly Carpenter,Fortaleza,Débito,32.28,5.0,2020.42
+84826825,2026-02-08 21:33:48.278063,Câmera Digital,1069.02,4,Timothy Mack,Recife,Pix,43.71,4.0,4319.79
+20638375,2026-03-01 21:33:48.278188,"Monitor 24""",1261.0,5,Virginia Whitaker,Rio de Janeiro,Boleto,33.15,3.0,6338.15
+97291948,2026-05-31 21:33:48.278345,Fone de Ouvido Bluetooth,356.26,2,David Holt,Fortaleza,Cartão de Crédito,12.04,4.0,724.56
+68082252,2026-04-07 21:33:48.278474,SSD 500GB,1207.93,3,James Li,São Paulo,Boleto,17.96,3.0,3641.75
+25705985,2026-06-10 21:33:48.278599,Caixa de Som,935.36,2,Elizabeth Bryant,Curitiba,Boleto,24.13,5.0,1894.8500000000001
+45789813,2026-02-08 21:33:48.278728,HD Externo 1TB,340.53,3,Douglas Cook,Belo Horizonte,Cartão de Crédito,7.68,3.0,1029.27
+49382311,2026-05-14 21:33:48.278853,SSD 500GB,1657.27,3,Cynthia Daugherty,Recife,Cartão de Crédito,26.09,3.0,4997.9
+22432994,2026-06-10 21:33:48.278981,Capinha para Celular,1888.22,5,Marvin Hernandez,Fortaleza,Débito,24.7,5.0,9465.800000000001
+94289457,2025-12-23 21:33:48.279115,Roteador Wi-Fi,892.46,3,Melissa Cole,Manaus,Pix,6.16,2.0,2683.54
+98591050,2026-06-03 21:33:48.279280,Caixa de Som,1728.01,5,Dale Clements,São Paulo,Pix,30.93,2.0,8670.98
+29279122,2026-04-12 21:33:48.279532,Teclado Mecânico,1320.44,3,Gina Potter PhD,Belo Horizonte,Débito,33.57,4.0,3994.8900000000003
+73872405,2026-01-05 21:33:48.279754,Mouse Sem Fio,728.52,3,Bonnie Elliott,Brasília,Cartão de Crédito,43.6,3.0,2229.16
+81864729,2026-03-28 21:33:48.279950,SSD 500GB,1016.16,4,Tracy Jacobs,Fortaleza,Cartão de Crédito,25.47,3.0,4090.1099999999997
+16014358,2026-02-15 21:33:48.280142,Carregador Portátil,276.05,4,Anna Flores,Fortaleza,Cartão de Crédito,34.59,5.0,1138.79
+57379180,2026-04-10 21:33:48.280357,Capinha para Celular,155.7,5,Scott Smith,Brasília,Débito,33.14,1.0,811.64
+72086445,2026-02-03 21:33:48.280549,Tablet Mini,1120.98,3,Laura Terrell,Recife,Débito,10.46,,3373.4
+72439562,2026-05-17 21:33:48.280740,Câmera Digital,516.63,2,Oscar Collier,Curitiba,Cartão de Crédito,29.85,1.0,1063.11
+64435235,2026-02-08 21:33:48.280929,Caixa de Som,1830.21,4,Angela Hodges,Rio de Janeiro,Boleto,27.43,,7348.27
+57225388,2026-02-25 21:33:48.281133,Teclado Mecânico,1425.55,4,Paula Norris,Recife,Débito,15.97,5.0,5718.17
+30289134,2026-01-19 21:33:48.281332,Capinha para Celular,421.69,5,Angela Harris,Fortaleza,Boleto,43.88,3.0,2152.33
+97677403,2026-03-29 21:33:48.281511,Carregador Portátil,1871.78,5,Michelle Todd,Curitiba,Cartão de Crédito,17.73,3.0,9376.63
+77042703,2026-05-12 21:33:48.281639,"Monitor 24""",1997.86,4,Jeffrey Pineda,Belo Horizonte,Débito,29.24,3.0,8020.679999999999
+85036551,2026-03-08 21:33:48.281765,Teclado Mecânico,1537.6,4,Tiffany Rodriguez,Recife,Pix,44.13,,6194.53
+85431755,2026-02-12 21:33:48.281893,"Monitor 24""",796.79,4,Danielle Wood,São Paulo,Pix,38.51,,3225.67
+89661561,2026-03-20 21:33:48.282024,Capinha para Celular,1977.41,2,Allison Roach,Recife,Cartão de Crédito,10.68,5.0,3965.5
+80204340,2026-03-07 21:33:48.282155,Caixa de Som,245.71,4,Wanda Brown,Rio de Janeiro,Débito,5.69,2.0,988.5300000000001
+47156925,2026-03-27 21:33:48.282291,Caixa de Som,1326.82,2,Patrick Shea,Rio de Janeiro,Débito,40.17,3.0,2693.81
+22407315,2026-03-09 21:33:48.282417,"Monitor 24""",1400.77,1,Jeffrey White,Brasília,Débito,47.94,,1448.71
+98817761,2026-04-16 21:33:48.282546,Caixa de Som,1104.98,5,Craig Nelson,Rio de Janeiro,Boleto,33.4,3.0,5558.299999999999
+37417564,2026-02-09 21:33:48.282672,SSD 500GB,226.24,1,Gabrielle Decker,Rio de Janeiro,Débito,12.49,3.0,238.73000000000002
+85244218,2025-12-20 21:33:48.282799,Smartphone X,682.53,1,Jennifer Roth,Curitiba,Pix,21.87,2.0,704.4
+78728226,2026-02-13 21:33:48.282926,Teclado Mecânico,853.5,2,Alexandra Richards,Belo Horizonte,Boleto,8.55,4.0,1715.55
+64661974,2026-05-20 21:33:48.283062,HD Externo 1TB,519.62,5,Joseph Thompson,Belo Horizonte,Boleto,25.75,3.0,2623.85
+495283,2026-04-09 21:33:48.283191,Tablet Mini,1350.34,4,Allen Taylor,Curitiba,Boleto,8.32,3.0,5409.679999999999
+9719104,2026-05-12 21:33:48.283360,Tablet Mini,1295.93,4,Benjamin Wilson,Curitiba,Débito,43.04,2.0,5226.76
+18538106,2026-03-21 21:33:48.283492,Caixa de Som,992.26,2,Samantha Riley,Salvador,Pix,30.87,,2015.3899999999999
+46425620,2026-02-26 21:33:48.283620,Smartphone X,1956.99,4,Lori Sanchez,Curitiba,Cartão de Crédito,30.47,,7858.43
+4837266,2025-12-25 21:33:48.283747,Roteador Wi-Fi,1232.49,4,Mark Brown,Curitiba,Boleto,32.32,3.0,4962.28
+18849841,2026-02-07 21:33:48.283872,HD Externo 1TB,420.76,3,Michael Duran,Belo Horizonte,Cartão de Crédito,45.65,,1307.93
+69847296,2025-12-23 21:33:48.283997,Tablet Mini,1587.79,1,Lori White,Manaus,Pix,37.96,1.0,1625.75
+29559815,2026-02-26 21:33:48.284124,Carregador Portátil,1507.59,2,Elizabeth Gregory,Porto Alegre,Boleto,40.39,3.0,3055.5699999999997
+94877839,2026-04-27 21:33:48.284264,Teclado Mecânico,1831.3,2,Tracy Wood,Curitiba,Débito,48.53,3.0,3711.13
+64334629,2026-03-09 21:33:48.284414,Câmera Digital,274.58,1,Alexander Allen,Belo Horizonte,Boleto,43.71,,318.28999999999996
+77899939,2026-06-03 21:33:48.284540,Capinha para Celular,1936.18,5,Darryl Jones,Brasília,Cartão de Crédito,40.58,1.0,9721.48
+5320281,2026-02-18 21:33:48.284679,Teclado Mecânico,291.0,3,Stephanie Love,Curitiba,Débito,42.01,3.0,915.01
+98528202,2026-01-09 21:33:48.284810,HD Externo 1TB,505.95,1,Anthony Cruz,Manaus,Pix,46.19,2.0,552.14
+50953905,2026-05-27 21:33:48.284935,Fone de Ouvido Bluetooth,1289.04,4,Jonathan Newton,Curitiba,Débito,10.25,1.0,5166.41
+66911831,2025-12-22 21:33:48.285079,Tablet Mini,1992.06,1,Ryan Bishop,Rio de Janeiro,Boleto,44.93,2.0,2036.99
+68387308,2026-03-22 21:33:48.285210,Mouse Sem Fio,773.47,5,Samantha Cannon,Salvador,Boleto,44.84,,3912.1900000000005
+39165367,2026-01-07 21:33:48.285341,Caixa de Som,1004.23,4,Grace Hamilton,Curitiba,Cartão de Crédito,36.06,2.0,4052.98
+30368398,2026-04-05 21:33:48.285469,Mouse Sem Fio,1903.58,3,Timothy Guzman,Rio de Janeiro,Pix,29.5,,5740.24
+82728405,2026-03-14 21:33:48.285597,Smartphone X,826.37,2,Kim Nichols,Rio de Janeiro,Débito,9.13,2.0,1661.8700000000001
+67509768,2026-05-26 21:33:48.285725,HD Externo 1TB,1214.43,1,Carl Campbell,São Paulo,Pix,15.96,2.0,1230.39
+36923447,2026-05-06 21:33:48.285855,Smartwatch,183.79,5,Jennifer Edwards,Porto Alegre,Boleto,41.59,2.0,960.54
+42469739,2026-03-07 21:33:48.285982,Câmera Digital,337.73,5,David Jones,São Paulo,Pix,43.63,2.0,1732.2800000000002
+36317276,2026-01-15 21:33:48.286108,Teclado Mecânico,538.78,2,Jacob Perez,Rio de Janeiro,Cartão de Crédito,10.93,3.0,1088.49
+21513853,2026-02-11 21:33:48.286241,"Monitor 24""",681.35,2,Natasha Brown,Curitiba,Cartão de Crédito,10.7,4.0,1373.4
+94296840,2026-04-26 21:33:48.286373,Fone de Ouvido Bluetooth,1504.05,4,Amber Brennan,Recife,Pix,28.1,1.0,6044.3
+73599429,2026-04-07 21:33:48.286501,Teclado Mecânico,482.02,5,Kimberly Williams,São Paulo,Pix,25.61,1.0,2435.71
+72087661,2025-12-28 21:33:48.286630,Mouse Sem Fio,1702.23,4,Kathy Rodriguez,Rio de Janeiro,Débito,37.06,4.0,6845.9800000000005
+46340186,2025-12-31 21:33:48.286758,Roteador Wi-Fi,207.54,5,Sarah Collins,Belo Horizonte,Cartão de Crédito,10.68,5.0,1048.38
+6396600,2026-05-24 21:33:48.286886,"Monitor 24""",1119.3,3,Thomas Chavez,Salvador,Pix,25.42,5.0,3383.3199999999997
+5724000,2026-04-02 21:33:48.287011,Fone de Ouvido Bluetooth,1596.54,1,Susan Foster,Fortaleza,Boleto,24.35,2.0,1620.8899999999999
+86714650,2026-03-28 21:33:48.287147,Carregador Portátil,1663.47,4,Thomas Palmer,Salvador,Cartão de Crédito,19.06,3.0,6672.9400000000005
+25677409,2026-06-01 21:33:48.287284,Tablet Mini,779.89,2,Amanda Graham,Recife,Cartão de Crédito,9.11,1.0,1568.8899999999999
+736,2026-01-05 21:33:48.287413,Capinha para Celular,238.3,3,Jason Jones,Belo Horizonte,Cartão de Crédito,31.39,5.0,746.2900000000001
+83946742,2026-05-05 21:33:48.287541,Carregador Portátil,1356.53,4,Robert King,Brasília,Débito,44.06,,5470.18
+167929,2025-12-26 21:33:48.287670,Tablet Mini,1220.8,3,Chad Rodriguez,Rio de Janeiro,Boleto,11.96,4.0,3674.3599999999997
+22151233,2026-02-08 21:33:48.287796,Caixa de Som,261.03,5,Ashley Jones,Brasília,Cartão de Crédito,39.32,5.0,1344.4699999999998
+23254364,2026-02-08 21:33:48.287924,Câmera Digital,886.77,5,Curtis Reynolds,Manaus,Cartão de Crédito,32.4,,4466.25
+68109140,2026-06-08 21:33:48.288054,Tablet Mini,106.46,3,Edward Roberts,Curitiba,Pix,20.8,2.0,340.18
+35661268,2026-01-18 21:33:48.288180,"Monitor 24""",1331.82,1,Marissa Wilson,Belo Horizonte,Cartão de Crédito,9.13,5.0,1340.95
+27999319,2026-02-06 21:33:48.288518,Capinha para Celular,868.67,3,Chelsea Leach,Belo Horizonte,Pix,19.02,3.0,2625.0299999999997
+42837463,2026-05-07 21:33:48.288748,"Monitor 24""",215.67,1,Christian Malone,Belo Horizonte,Boleto,38.95,1.0,254.62
+62749490,2026-06-03 21:33:48.288947,Fone de Ouvido Bluetooth,580.6,4,Mark Keller,Recife,Débito,23.64,2.0,2346.04
+54444215,2026-04-23 21:33:48.289138,Fone de Ouvido Bluetooth,723.09,1,Sean Williams,Curitiba,Débito,28.71,3.0,751.8000000000001
+97608218,2025-12-24 21:33:48.289361,Smartwatch,820.76,5,Tyler Baldwin,São Paulo,Cartão de Crédito,14.2,2.0,4118.0
+97965587,2026-01-17 21:33:48.289509,Câmera Digital,548.26,3,Sheila Hamilton,Rio de Janeiro,Cartão de Crédito,27.38,4.0,1672.16
+85776955,2026-01-26 21:33:48.289644,Notebook Pro,791.4,2,Dennis Owens,Fortaleza,Pix,8.24,,1591.04
+64494616,2025-12-23 21:33:48.289774,Capinha para Celular,86.55,1,Susan Meza,Brasília,Débito,30.8,,117.35
+99840059,2026-05-25 21:33:48.289905,Capinha para Celular,614.55,4,Joseph Mckinney,São Paulo,Pix,12.73,5.0,2470.93
+78334676,2026-04-09 21:33:48.290033,Caixa de Som,1394.74,3,Timothy Cardenas,Rio de Janeiro,Débito,43.0,2.0,4227.22
+49469442,2026-04-03 21:33:48.290160,"Monitor 24""",830.88,1,Kevin Young,Salvador,Pix,38.56,2.0,869.44
+82426619,2026-03-08 21:33:48.290296,Câmera Digital,377.86,5,James Petty,Rio de Janeiro,Boleto,45.77,3.0,1935.0700000000002
+33116089,2026-03-12 21:33:48.290423,SSD 500GB,1918.54,2,Emily Durham,Porto Alegre,Cartão de Crédito,11.59,2.0,3848.67
+38697231,2026-01-26 21:33:48.290557,"Monitor 24""",348.1,1,Matthew Vazquez,Belo Horizonte,Débito,25.88,5.0,373.98
+98512745,2026-05-10 21:33:48.290684,Mouse Sem Fio,1378.21,5,Julie Snyder,Manaus,Pix,43.89,,6934.9400000000005
+62577186,2026-03-03 21:33:48.290813,Notebook Pro,907.54,4,Amy Mcgee,Recife,Pix,40.83,5.0,3670.99
+61041739,2025-12-27 21:33:48.290942,Carregador Portátil,1039.31,3,Robert Green,Recife,Débito,6.69,3.0,3124.62
+13826407,2026-02-24 21:33:48.291079,Fone de Ouvido Bluetooth,1307.1,1,Stephanie Williams,Manaus,Débito,25.82,5.0,1332.9199999999998
+68636531,2025-12-23 21:33:48.291222,Mouse Sem Fio,1822.65,5,Shawn Mason,Porto Alegre,Pix,32.23,5.0,9145.48
+59262102,2026-01-20 21:33:48.291352,Smartphone X,928.52,3,Jennifer Simon,Rio de Janeiro,Boleto,6.76,,2792.32
+32009511,2026-04-04 21:33:48.291488,Mouse Sem Fio,1071.93,5,Jessica Mcdowell,Belo Horizonte,Pix,21.78,3.0,5381.43
+54940618,2026-03-22 21:33:48.291618,Capinha para Celular,1560.21,5,Joshua Jones,São Paulo,Pix,7.97,1.0,7809.02
+54570716,2026-05-04 21:33:48.291744,HD Externo 1TB,803.8,3,Zachary Davis,Manaus,Boleto,20.0,5.0,2431.3999999999996
+74732881,2026-05-31 21:33:48.291870,Notebook Pro,1837.66,3,Sara Conner,Salvador,Boleto,31.78,1.0,5544.76
+67225244,2026-03-02 21:33:48.291999,Teclado Mecânico,784.52,3,Robert Davis,Belo Horizonte,Cartão de Crédito,34.07,4.0,2387.63
+74604780,2026-04-22 21:33:48.292128,Carregador Portátil,85.55,3,Tyrone Rodriguez,Belo Horizonte,Boleto,20.38,4.0,277.03
+5467121,2026-01-31 21:33:48.292259,Smartwatch,1999.95,2,Brian Eaton,Rio de Janeiro,Pix,43.0,1.0,4042.9
+21498033,2026-04-21 21:33:48.292385,Câmera Digital,1102.55,5,Jordan Hayes,São Paulo,Pix,44.44,5.0,5557.19
+56615829,2026-01-15 21:33:48.292513,"Monitor 24""",784.6,2,Adam Hood,Belo Horizonte,Boleto,37.45,1.0,1606.65
+39096768,2026-03-28 21:33:48.292639,Carregador Portátil,1368.91,2,Amanda Thompson,Recife,Pix,38.86,4.0,2776.6800000000003
+91448759,2026-02-10 21:33:48.292767,Teclado Mecânico,516.38,4,Kayla Dunlap,Porto Alegre,Pix,35.52,5.0,2101.04
+26910449,2026-04-04 21:33:48.292895,Mouse Sem Fio,1550.41,4,Jerry Martin,Fortaleza,Débito,48.48,2.0,6250.12
+91820308,2026-05-16 21:33:48.293027,Notebook Pro,1752.35,1,Shirley Bridges,Recife,Pix,29.95,1.0,1782.3
+80077605,2026-04-24 21:33:48.293156,Caixa de Som,293.12,1,Nicole Morgan,Belo Horizonte,Pix,25.22,5.0,318.34000000000003
+19193686,2026-01-19 21:33:48.293291,Caixa de Som,903.07,2,Lauren Fox,Recife,Pix,46.87,4.0,1853.01
+35335279,2025-12-26 21:33:48.293420,Capinha para Celular,1028.91,2,Leon Hawkins,Salvador,Cartão de Crédito,21.87,1.0,2079.69
+10225261,2026-03-04 21:33:48.293545,Roteador Wi-Fi,243.21,3,Hannah Jefferson,Belo Horizonte,Boleto,6.72,4.0,736.35
+36294035,2026-06-09 21:33:48.293676,Caixa de Som,320.65,4,Stanley Bishop,Recife,Cartão de Crédito,45.76,1.0,1328.36
+80357866,2026-02-16 21:33:48.293802,Smartwatch,1678.18,5,Robert Powell,Manaus,Débito,10.0,3.0,8400.9
+91320765,2026-02-11 21:33:48.293930,Tablet Mini,287.6,2,Robert Castro,Salvador,Débito,7.83,4.0,583.0300000000001
+95958424,2026-05-14 21:33:48.294054,Teclado Mecânico,82.05,5,Mr. Carl Young,Manaus,Boleto,37.33,3.0,447.58
+29068936,2026-04-01 21:33:48.294186,Smartphone X,1248.88,2,Jamie Beasley,Manaus,Débito,13.43,,2511.19
+85859418,2026-01-03 21:33:48.294322,Teclado Mecânico,1950.58,1,Lauren Burke,Fortaleza,Cartão de Crédito,22.57,4.0,1973.1499999999999
+64308170,2025-12-24 21:33:48.294451,HD Externo 1TB,804.42,3,Brian Gonzalez,Curitiba,Cartão de Crédito,21.07,1.0,2434.33
+92951959,2026-03-11 21:33:48.294579,Smartwatch,1479.23,1,Eric Greene,Manaus,Pix,11.0,3.0,1490.23
+76193206,2026-05-01 21:33:48.294703,Carregador Portátil,1636.34,2,Rebecca Anthony,Recife,Débito,33.43,2.0,3306.1099999999997
+27067841,2025-12-29 21:33:48.294831,SSD 500GB,1563.57,4,Teresa Walker,São Paulo,Pix,14.07,2.0,6268.349999999999
+75502168,2025-12-23 21:33:48.294958,Carregador Portátil,1870.07,5,Jamie Frye,Salvador,Débito,16.4,,9366.75
+73640637,2026-01-30 21:33:48.295097,Tablet Mini,746.1,1,Catherine Martin,Brasília,Pix,10.6,3.0,756.7
+19301603,2026-04-03 21:33:48.295350,Roteador Wi-Fi,830.04,4,Gloria King,Salvador,Pix,48.82,4.0,3368.98
+82071927,2026-06-08 21:33:48.295535,Mouse Sem Fio,766.33,5,Amanda Foster,Curitiba,Cartão de Crédito,37.72,1.0,3869.37
+96516911,2026-04-02 21:33:48.295873,"Monitor 24""",1990.44,2,David Campbell,Fortaleza,Pix,19.45,1.0,4000.33
+35345673,2026-03-06 21:33:48.296140,HD Externo 1TB,626.5,4,Gregory Miller,Manaus,Débito,12.5,4.0,2518.5
+43032399,2026-03-12 21:33:48.296348,Mouse Sem Fio,132.59,3,Michele Chaney,Manaus,Débito,17.35,1.0,415.12
+99869561,2026-01-01 21:33:48.296528,HD Externo 1TB,1293.15,3,Brandy White,Fortaleza,Boleto,47.88,2.0,3927.3300000000004
+25248882,2026-05-17 21:33:48.296658,HD Externo 1TB,1573.56,1,Corey Wheeler,Belo Horizonte,Cartão de Crédito,15.62,,1589.1799999999998
+76171871,2026-03-16 21:33:48.296786,Carregador Portátil,796.57,5,Jessica Bridges,São Paulo,Boleto,35.56,3.0,4018.4100000000003
+97551772,2026-03-18 21:33:48.296914,Mouse Sem Fio,1538.01,5,Patricia Miller,Belo Horizonte,Pix,22.91,,7712.96
+43306630,2026-02-22 21:33:48.297041,Smartwatch,1923.01,1,Eric Martinez,Belo Horizonte,Débito,28.3,5.0,1951.31
+94639756,2026-01-12 21:33:48.297178,Tablet Mini,1561.18,4,Kristina Porter,Porto Alegre,Pix,36.23,4.0,6280.95
+68436001,2026-02-02 21:33:48.297307,Fone de Ouvido Bluetooth,314.67,1,Ashley Evans,Recife,Boleto,45.44,4.0,360.11
+47550668,2026-01-04 21:33:48.297448,Câmera Digital,1379.76,3,Carolyn Frazier,Brasília,Cartão de Crédito,29.75,3.0,4169.03
+69387109,2026-02-27 21:33:48.297576,Caixa de Som,357.14,2,Elizabeth Flores,Brasília,Boleto,10.46,2.0,724.74
+34042871,2026-01-17 21:33:48.297704,Smartwatch,1591.23,1,Maria Hartman,Brasília,Pix,26.03,5.0,1617.26
+58701,2026-01-15 21:33:48.297834,"Monitor 24""",1774.28,1,Marc Cruz,Curitiba,Débito,49.98,,1824.26
+25488404,2026-04-14 21:33:48.297959,Teclado Mecânico,851.05,4,Sean Marsh,Manaus,Cartão de Crédito,10.64,3.0,3414.8399999999997
+53759039,2026-05-26 21:33:48.298084,Fone de Ouvido Bluetooth,927.45,5,Anne Smith,Brasília,Boleto,44.51,5.0,4681.76
+10129870,2026-05-25 21:33:48.298275,"Monitor 24""",404.83,2,Alec Woods,Salvador,Cartão de Crédito,42.41,5.0,852.0699999999999
+92266627,2026-01-21 21:33:48.298688,Tablet Mini,371.08,3,Amy Brooks,Porto Alegre,Pix,47.64,5.0,1160.88
+85956632,2026-02-23 21:33:48.299031,Caixa de Som,203.78,2,Molly Watson,Fortaleza,Pix,10.63,3.0,418.19
+75573883,2026-05-19 21:33:48.299622,Teclado Mecânico,232.19,2,Donna Pearson,Manaus,Boleto,12.7,5.0,477.08
+35702441,2026-05-16 21:33:48.299794,Carregador Portátil,1692.93,5,Alyssa Simmons,São Paulo,Cartão de Crédito,8.66,,8473.31
+99590488,2026-05-09 21:33:48.299942,Tablet Mini,1319.7,5,Mark Powell,Salvador,Cartão de Crédito,27.41,,6625.91
+97092377,2026-05-01 21:33:48.300075,Tablet Mini,1301.72,3,Brian Johnson,Recife,Boleto,41.21,,3946.37
+72703590,2026-03-26 21:33:48.300202,Tablet Mini,934.41,1,Jacqueline Carpenter,Belo Horizonte,Débito,23.7,4.0,958.11
+85401229,2026-02-03 21:33:48.300364,Carregador Portátil,1232.99,3,Carol Coleman,Brasília,Pix,48.89,2.0,3747.86
+86396430,2026-03-17 21:33:48.300496,Teclado Mecânico,1145.22,3,Mr. Brian Harris PhD,Porto Alegre,Débito,10.51,4.0,3446.17
+37026837,2026-02-14 21:33:48.300642,Notebook Pro,238.78,3,Paul Sullivan,Salvador,Débito,16.17,2.0,732.51
+69429861,2026-03-06 21:33:48.300775,Roteador Wi-Fi,1176.49,3,Michael Anderson,Porto Alegre,Boleto,27.42,5.0,3556.8900000000003
+17233329,2026-04-11 21:33:48.300902,Mouse Sem Fio,1764.2,4,Cathy Webb,São Paulo,Cartão de Crédito,47.54,5.0,7104.34
+79297048,2026-04-09 21:33:48.301046,Smartwatch,469.53,3,Amanda Pineda,São Paulo,Cartão de Crédito,17.66,5.0,1426.25
+28745360,2026-05-29 21:33:48.301176,HD Externo 1TB,967.64,5,Lynn Adams,São Paulo,Cartão de Crédito,24.39,3.0,4862.59
+47082188,2026-03-16 21:33:48.301304,Câmera Digital,836.35,1,Julie Moore,Salvador,Cartão de Crédito,30.66,2.0,867.01
+97257947,2026-03-15 21:33:48.301561,Teclado Mecânico,612.77,4,Nicole Thompson,Fortaleza,Débito,39.4,3.0,2490.48
+58792958,2026-05-21 21:33:48.301739,HD Externo 1TB,1241.53,2,Christina Bowen,Rio de Janeiro,Débito,21.79,3.0,2504.85
+86646743,2026-05-04 21:33:48.301874,Carregador Portátil,1522.18,2,John Grant,Manaus,Débito,27.5,1.0,3071.86
+9834519,2025-12-22 21:33:48.302007,Notebook Pro,1441.5,4,Richard Moran,Fortaleza,Débito,11.7,5.0,5777.7
+64531137,2026-01-17 21:33:48.302138,Carregador Portátil,1866.17,3,William Ellis,Belo Horizonte,Débito,49.58,,5648.09
+85830303,2026-02-27 21:33:48.302297,"Monitor 24""",705.93,5,David Harper,Fortaleza,Débito,36.89,3.0,3566.5399999999995
+8540588,2026-04-13 21:33:48.302443,Caixa de Som,82.44,3,Maria Fernandez,Rio de Janeiro,Débito,31.27,,278.59
+35709232,2026-06-07 21:33:48.302573,HD Externo 1TB,101.96,4,Travis Stephens,Curitiba,Boleto,37.46,5.0,445.29999999999995
+37353006,2026-04-14 21:33:48.302702,Notebook Pro,1072.25,5,Jessica Best,Salvador,Boleto,41.97,2.0,5403.22
+50981288,2025-12-21 21:33:48.302891,"Monitor 24""",1899.0,1,Jacqueline Owens,Porto Alegre,Cartão de Crédito,24.85,4.0,1923.85
+30757501,2026-01-20 21:33:48.303038,Capinha para Celular,1396.48,4,Keith Turner,Fortaleza,Débito,44.28,,5630.2
+95899732,2025-12-28 21:33:48.303194,SSD 500GB,319.26,2,Joseph Mcdowell,Fortaleza,Pix,49.92,4.0,688.4399999999999
+78694404,2026-04-26 21:33:48.303390,Capinha para Celular,661.82,2,Jacob Anderson,Recife,Pix,29.58,,1353.22
+15713238,2026-06-05 21:33:48.303524,HD Externo 1TB,1617.12,3,Jim Phillips,Manaus,Débito,13.65,2.0,4865.009999999999
+41096086,2026-02-22 21:33:48.303655,Teclado Mecânico,632.07,3,Shannon Carr,Curitiba,Boleto,36.06,4.0,1932.27
+18155021,2026-03-04 21:33:48.303798,Mouse Sem Fio,730.17,3,William Guerra,Curitiba,Cartão de Crédito,30.81,5.0,2221.3199999999997
+78191001,2026-03-20 21:33:48.303925,Roteador Wi-Fi,1961.31,3,Elizabeth Elliott,Belo Horizonte,Pix,6.89,,5890.820000000001
+82039611,2026-01-02 21:33:48.304058,Carregador Portátil,1851.82,3,Michelle Smith,Recife,Boleto,14.09,5.0,5569.55
+15932426,2026-02-20 21:33:48.304188,Roteador Wi-Fi,1145.94,3,Joshua Espinoza,Belo Horizonte,Cartão de Crédito,32.71,5.0,3470.53
+40606923,2026-02-12 21:33:48.304335,Smartwatch,148.99,5,Courtney Manning,Porto Alegre,Boleto,7.36,4.0,752.3100000000001
+84184010,2026-03-07 21:33:48.304491,SSD 500GB,971.19,2,Heidi Martinez,São Paulo,Boleto,23.31,4.0,1965.69
+96943781,2026-04-14 21:33:48.304628,HD Externo 1TB,438.94,3,Lisa Pope,Brasília,Pix,34.07,1.0,1350.8899999999999
+60618941,2026-05-28 21:33:48.304760,"Monitor 24""",502.83,1,Ronald Franco,Belo Horizonte,Débito,44.7,2.0,547.53
+4623444,2025-12-22 21:33:48.304887,Caixa de Som,824.14,4,Kevin Burns,Belo Horizonte,Pix,44.45,1.0,3341.0099999999998
+18377719,2026-02-27 21:33:48.305014,"Monitor 24""",1225.43,3,Heather Brooks,Curitiba,Débito,49.51,5.0,3725.8
+81834941,2026-04-26 21:33:48.305153,Mouse Sem Fio,1784.06,2,Nicole Woods,Fortaleza,Débito,17.28,1.0,3585.4
+61119157,2026-03-07 21:33:48.305292,Notebook Pro,1475.68,3,Andrew Bennett,Belo Horizonte,Cartão de Crédito,38.15,3.0,4465.19
+7337430,2026-05-07 21:33:48.305419,HD Externo 1TB,1526.7,2,John Rice,Manaus,Débito,42.21,5.0,3095.61
+36456768,2026-03-06 21:33:48.305544,Fone de Ouvido Bluetooth,831.62,1,Daniel Patel,Belo Horizonte,Boleto,26.49,2.0,858.11
+10327922,2025-12-14 21:33:48.305669,Tablet Mini,797.97,4,Stephanie Garcia,Curitiba,Pix,18.59,,3210.4700000000003
+12885141,2026-05-08 21:33:48.305799,Smartphone X,560.03,3,Courtney Ross,Porto Alegre,Cartão de Crédito,35.05,4.0,1715.1399999999999
+65056217,2026-03-01 21:33:48.305928,Notebook Pro,840.56,5,Rachael Huff,Curitiba,Cartão de Crédito,33.74,3.0,4236.539999999999
+25964490,2026-03-17 21:33:48.306057,"Monitor 24""",480.66,2,Juan Martin,Recife,Boleto,25.47,5.0,986.7900000000001
+26460281,2026-03-18 21:33:48.306183,Capinha para Celular,1418.78,4,Michelle Robles,Fortaleza,Boleto,39.28,,5714.4
+40576012,2026-05-14 21:33:48.306328,Caixa de Som,1585.37,5,John Best,Recife,Pix,8.51,5.0,7935.36
+27016036,2026-01-10 21:33:48.306456,Smartphone X,1666.11,5,Guy Smith,Porto Alegre,Boleto,12.4,5.0,8342.949999999999
+71696662,2026-04-05 21:33:48.306586,Fone de Ouvido Bluetooth,1376.58,5,Mark Powell,Recife,Cartão de Crédito,45.45,4.0,6928.349999999999
+14405862,2025-12-27 21:33:48.306711,Mouse Sem Fio,307.29,4,Ryan Patton,Recife,Cartão de Crédito,30.15,,1259.3100000000002
+95179844,2026-03-01 21:33:48.306836,SSD 500GB,92.45,3,Barbara Wilkerson,São Paulo,Boleto,31.02,1.0,308.37
+34514796,2026-03-31 21:33:48.306969,Carregador Portátil,1415.75,5,Mark Greer DDS,São Paulo,Cartão de Crédito,49.38,4.0,7128.13
+87970941,2025-12-21 21:33:48.307104,Tablet Mini,847.29,2,Barbara Wheeler,Salvador,Pix,49.68,4.0,1744.26
+74283213,2026-04-06 21:33:48.307249,Caixa de Som,1838.37,4,Jamie Flynn,Salvador,Cartão de Crédito,35.72,,7389.2
+27383893,2026-04-30 21:33:48.307380,Notebook Pro,1324.39,3,Rachel Parsons,Rio de Janeiro,Boleto,49.68,4.0,4022.85
+36634653,2026-04-27 21:33:48.307513,Notebook Pro,1469.32,2,Sylvia Johnson,São Paulo,Cartão de Crédito,49.03,4.0,2987.67
+48374661,2026-06-03 21:33:48.307646,SSD 500GB,1111.67,5,Lisa Hernandez,Salvador,Boleto,16.14,3.0,5574.490000000001
+53818708,2026-01-21 21:33:48.307774,Tablet Mini,417.54,1,Kelly Skinner,São Paulo,Débito,32.67,1.0,450.21000000000004
+25590120,2026-02-12 21:33:48.307906,Smartwatch,181.22,5,William Ramirez,São Paulo,Débito,31.9,,938.0
+27104552,2025-12-25 21:33:48.308032,Smartwatch,1494.06,4,Natalie Carter,Recife,Boleto,29.29,1.0,6005.53
+89789979,2026-01-17 21:33:48.308161,Teclado Mecânico,1987.29,2,Dana Williams,Manaus,Pix,30.99,,4005.5699999999997
+23307910,2026-03-05 21:33:48.308297,Smartwatch,638.44,2,Kayla Sanchez,Fortaleza,Boleto,23.61,3.0,1300.49
+23181202,2025-12-28 21:33:48.308426,Teclado Mecânico,1899.61,2,Travis White,Salvador,Débito,7.11,3.0,3806.33
+41837697,2026-05-26 21:33:48.308553,HD Externo 1TB,793.25,5,David Wright,Brasília,Débito,23.37,3.0,3989.62
+75488375,2026-03-19 21:33:48.308679,Notebook Pro,1521.11,4,Justin Johnson,Porto Alegre,Boleto,18.53,,6102.969999999999
+33718415,2026-01-18 21:33:48.308804,Câmera Digital,952.9,1,Christopher Stephens,Fortaleza,Débito,48.55,5.0,1001.4499999999999
+40857583,2026-04-27 21:33:48.308934,Notebook Pro,807.42,3,Douglas Miller,Porto Alegre,Pix,34.1,4.0,2456.3599999999997
+52424096,2026-03-17 21:33:48.309060,Fone de Ouvido Bluetooth,1094.49,2,Keith Wallace,São Paulo,Pix,21.97,5.0,2210.95
+56982668,2026-05-16 21:33:48.309194,Smartphone X,1753.56,2,Casey Garcia,Manaus,Boleto,26.57,3.0,3533.69
+56763561,2026-02-28 21:33:48.309452,Roteador Wi-Fi,79.9,2,Allison Parrish,Rio de Janeiro,Débito,46.15,,205.95000000000002
+7677419,2026-05-16 21:33:48.309670,SSD 500GB,448.8,2,Mark Powers,Fortaleza,Pix,39.9,4.0,937.5
+54606416,2026-04-11 21:33:48.309865,Teclado Mecânico,1315.01,3,Rebecca Parker,Curitiba,Pix,28.08,4.0,3973.1099999999997
+83170748,2026-04-11 21:33:48.310056,Fone de Ouvido Bluetooth,1615.49,4,Nathan Sanchez,Brasília,Boleto,21.68,4.0,6483.64
+7977452,2025-12-24 21:33:48.310243,"Monitor 24""",1734.97,2,Brian Kaufman,São Paulo,Pix,29.9,5.0,3499.84
+94713762,2026-05-10 21:33:48.310429,SSD 500GB,864.28,2,Benjamin Grant,Porto Alegre,Pix,15.35,5.0,1743.9099999999999
+20664532,2026-02-13 21:33:48.310589,Mouse Sem Fio,1123.75,3,Keith Padilla,Curitiba,Débito,48.49,,3419.74
+75742341,2026-04-17 21:33:48.310714,Mouse Sem Fio,378.06,3,Catherine Patel,Belo Horizonte,Boleto,37.41,4.0,1171.5900000000001
+66339650,2026-01-29 21:33:48.310843,Roteador Wi-Fi,1784.26,1,Jessica Brooks,Fortaleza,Cartão de Crédito,42.76,1.0,1827.02
+31350626,2026-06-02 21:33:48.310982,Smartphone X,1540.46,4,Melissa Lane,Belo Horizonte,Boleto,8.06,2.0,6169.900000000001
+84164618,2025-12-15 21:33:48.311111,Smartwatch,1036.18,3,Mitchell Silva,São Paulo,Débito,34.67,1.0,3143.21
+11093557,2025-12-14 21:33:48.311306,Teclado Mecânico,1125.7,1,Andrew Allen,São Paulo,Pix,29.11,3.0,1154.81
+90454078,2025-12-17 21:33:48.311468,Teclado Mecânico,1635.66,4,Katherine Woods,Belo Horizonte,Cartão de Crédito,46.31,5.0,6588.950000000001
+30071554,2026-01-20 21:33:48.311614,Smartwatch,424.27,5,Ronnie Short,Curitiba,Pix,17.03,4.0,2138.38
+37481337,2026-01-02 21:33:48.311747,Carregador Portátil,1920.63,4,Peter Carter,Manaus,Boleto,49.56,2.0,7732.080000000001
+72235253,2026-02-27 21:33:48.311874,HD Externo 1TB,1664.72,1,Lisa Gonzalez,São Paulo,Cartão de Crédito,23.24,4.0,1687.96
+46105844,2026-05-03 21:33:48.312013,Mouse Sem Fio,159.42,1,Tracey Ortega,Belo Horizonte,Cartão de Crédito,27.49,4.0,186.91
+31805188,2026-05-27 21:33:48.312144,Câmera Digital,695.98,1,Brittney Lindsey,Fortaleza,Cartão de Crédito,15.34,,711.32
+77196638,2026-05-07 21:33:48.312291,Mouse Sem Fio,578.64,1,Justin Kelly,Curitiba,Cartão de Crédito,13.07,3.0,591.71
+10395248,2025-12-17 21:33:48.312423,Smartwatch,1194.72,4,Michael Wood,Rio de Janeiro,Pix,12.31,2.0,4791.1900000000005
+66046717,2026-05-07 21:33:48.312558,Caixa de Som,1706.41,5,Joel Griffith,Brasília,Débito,39.0,2.0,8571.050000000001
+51438363,2026-06-07 21:33:48.312748,SSD 500GB,202.93,3,Daniel Stewart,São Paulo,Cartão de Crédito,24.67,1.0,633.4599999999999
+3934291,2026-03-10 21:33:48.312935,"Monitor 24""",1549.56,5,Mary King,Salvador,Pix,6.33,3.0,7754.129999999999
+71303936,2026-04-07 21:33:48.313142,Mouse Sem Fio,494.87,5,Toni White,Salvador,Débito,13.36,5.0,2487.71
+30306714,2026-05-31 21:33:48.313392,Capinha para Celular,217.1,5,Scott Lynn,Curitiba,Boleto,37.09,1.0,1122.59
+81047516,2026-02-19 21:33:48.313586,Notebook Pro,791.0,2,Christina Khan,Salvador,Pix,21.23,1.0,1603.23
+60989146,2025-12-14 21:33:48.313778,Tablet Mini,917.23,3,Sandra Miller,Rio de Janeiro,Boleto,8.93,4.0,2760.62
+19101172,2026-04-06 21:33:48.313971,Teclado Mecânico,1131.74,4,Lisa Cannon,Rio de Janeiro,Cartão de Crédito,9.03,5.0,4535.99
+66804228,2026-01-05 21:33:48.314160,"Monitor 24""",1216.19,3,Rebecca Ellis,Salvador,Cartão de Crédito,18.13,4.0,3666.7000000000003
+77713707,2026-01-03 21:33:48.314379,SSD 500GB,1807.22,2,Jeremy Gonzalez,Manaus,Boleto,35.84,2.0,3650.28
+67022693,2026-01-17 21:33:48.314551,Tablet Mini,637.21,4,Patrick Haynes,Belo Horizonte,Cartão de Crédito,12.52,3.0,2561.36
+2794815,2026-03-30 21:33:48.314678,Tablet Mini,994.25,1,Cassie Nelson,Brasília,Pix,47.49,,1041.74
+96414604,2026-05-22 21:33:48.314807,Mouse Sem Fio,1207.92,2,Tina Hernandez,Recife,Cartão de Crédito,11.1,1.0,2426.94
+52542755,2026-03-24 21:33:48.314935,Carregador Portátil,1691.15,4,Steven Lloyd,Brasília,Débito,20.06,,6784.660000000001
+15177456,2026-05-14 21:33:48.315069,Notebook Pro,635.85,5,Austin Thomas,Porto Alegre,Débito,19.14,4.0,3198.39
+26030027,2026-03-04 21:33:48.315199,Tablet Mini,1483.01,4,Sharon Collins,Manaus,Boleto,19.66,3.0,5951.7
+46282980,2026-03-23 21:33:48.315334,Carregador Portátil,272.08,5,Tommy Romero,Porto Alegre,Boleto,35.68,5.0,1396.08
+97185230,2025-12-19 21:33:48.315460,SSD 500GB,950.16,2,Bryce Simmons,Recife,Pix,42.41,1.0,1942.73
+78831845,2026-03-27 21:33:48.315589,HD Externo 1TB,1023.64,3,Patrick Holloway,Porto Alegre,Pix,34.64,,3105.56
+25575271,2026-03-31 21:33:48.315714,Câmera Digital,785.13,4,Lisa Garcia,Manaus,Débito,31.2,5.0,3171.72
+20683230,2026-04-21 21:33:48.315843,Roteador Wi-Fi,1844.76,4,Stephen Harris,Fortaleza,Cartão de Crédito,40.58,3.0,7419.62
+32387493,2026-06-10 21:33:48.315968,Roteador Wi-Fi,1633.98,5,Amanda King,Rio de Janeiro,Cartão de Crédito,39.6,,8209.5
+45659378,2026-06-01 21:33:48.316095,Carregador Portátil,374.36,5,Samantha Miller,São Paulo,Débito,48.51,3.0,1920.3100000000002
+94370996,2026-04-02 21:33:48.316233,Fone de Ouvido Bluetooth,70.57,3,Matthew Hopkins,Porto Alegre,Boleto,25.06,4.0,236.76999999999998
+48699392,2026-04-10 21:33:48.316360,Câmera Digital,1375.13,5,Yolanda Heath,Belo Horizonte,Pix,49.9,4.0,6925.55
+4051813,2026-01-08 21:33:48.316506,Tablet Mini,861.15,1,Kevin Hart,Rio de Janeiro,Boleto,20.67,3.0,881.8199999999999
+54132689,2026-04-08 21:33:48.316632,Câmera Digital,453.39,4,Cassandra Weiss,Brasília,Débito,9.39,,1822.95
+33638635,2026-06-09 21:33:48.316761,Mouse Sem Fio,671.87,3,Donna Young,São Paulo,Cartão de Crédito,6.02,3.0,2021.63
+25568423,2026-05-27 21:33:48.316889,Fone de Ouvido Bluetooth,1370.42,2,Suzanne Martin,Porto Alegre,Boleto,29.84,3.0,2770.6800000000003
+44877825,2026-05-05 21:33:48.317033,Capinha para Celular,1919.0,2,Kyle Aguilar,Salvador,Boleto,13.39,,3851.39
+20090411,2026-04-02 21:33:48.317161,Capinha para Celular,106.92,5,Stephen Rhodes,Porto Alegre,Débito,31.65,4.0,566.25
+2621640,2025-12-14 21:33:48.317295,SSD 500GB,468.85,3,Shirley Stokes,Rio de Janeiro,Cartão de Crédito,40.98,5.0,1447.5300000000002
+92684128,2026-01-29 21:33:48.317425,Carregador Portátil,685.67,4,Victoria Horton,Rio de Janeiro,Pix,35.18,4.0,2777.8599999999997
+96676510,2026-04-27 21:33:48.317553,HD Externo 1TB,661.14,4,James Cordova,Manaus,Débito,31.42,3.0,2675.98
+17887909,2026-03-13 21:33:48.317679,Caixa de Som,942.83,2,Megan Glover,Curitiba,Cartão de Crédito,35.24,3.0,1920.9
+57357623,2026-01-12 21:33:48.317811,Smartwatch,645.49,2,Ashley Mooney,Brasília,Boleto,27.99,4.0,1318.97
+94126113,2026-05-14 21:33:48.317945,Notebook Pro,1170.87,4,Kathryn Hoover,Belo Horizonte,Débito,33.6,,4717.08
+67162591,2026-05-27 21:33:48.318117,Roteador Wi-Fi,1999.8,5,Charles Moore,Belo Horizonte,Débito,18.0,2.0,10017.0
+95512640,2026-03-03 21:33:48.318439,Caixa de Som,929.45,1,John Price,Brasília,Cartão de Crédito,26.81,2.0,956.26
+31737475,2026-03-21 21:33:48.318618,Teclado Mecânico,1035.6,4,Richard Hughes,Salvador,Débito,23.7,4.0,4166.099999999999
+40239062,2026-04-17 21:33:48.318750,Notebook Pro,211.21,1,Megan Evans,Porto Alegre,Pix,6.47,2.0,217.68
+24552490,2026-04-29 21:33:48.318884,Tablet Mini,378.01,4,Joseph Rivas,Manaus,Débito,29.74,1.0,1541.78
+96519627,2026-05-08 21:33:48.319011,Fone de Ouvido Bluetooth,572.38,5,Thomas Cannon,Brasília,Cartão de Crédito,39.2,4.0,2901.1
+73372707,2026-05-01 21:33:48.319137,Smartwatch,1980.06,1,Edward Chang,Porto Alegre,Pix,44.37,1.0,2024.4299999999998
+8109542,2026-04-07 21:33:48.319264,Tablet Mini,729.73,1,Gerald Houston,Recife,Cartão de Crédito,39.9,2.0,769.63
+32850078,2026-02-04 21:33:48.319391,Câmera Digital,1488.35,3,Richard Gross,Manaus,Débito,12.47,2.0,4477.5199999999995
+41646293,2026-02-03 21:33:48.319516,Caixa de Som,453.54,1,Jennifer Huber,Manaus,Pix,28.95,5.0,482.49
+42412604,2026-04-29 21:33:48.319654,Notebook Pro,681.12,3,Barbara Smith,Curitiba,Pix,47.86,5.0,2091.2200000000003
+39980092,2026-06-04 21:33:48.319793,Caixa de Som,235.69,4,Brandon Blake,São Paulo,Pix,44.02,2.0,986.78
+40299971,2026-06-10 21:33:48.319921,Caixa de Som,308.75,2,Timothy Moore,Brasília,Boleto,39.27,,656.77
+73785364,2026-03-23 21:33:48.320048,Mouse Sem Fio,327.23,3,William Nash,Salvador,Débito,25.34,,1007.0300000000001
+7561559,2026-01-05 21:33:48.320177,Capinha para Celular,1055.45,3,James Shields,Brasília,Débito,47.76,3.0,3214.1100000000006
+51015137,2026-05-10 21:33:48.320303,Smartphone X,1744.37,1,Kendra Bond,Recife,Pix,43.25,5.0,1787.62
+19241841,2026-03-24 21:33:48.320432,Smartwatch,1937.85,2,Claudia Duran,Recife,Pix,19.53,3.0,3895.23
+94978005,2026-03-09 21:33:48.320564,Teclado Mecânico,1176.97,5,Jacob Harris,Recife,Pix,45.24,1.0,5930.09
+26258140,2025-12-24 21:33:48.320692,Fone de Ouvido Bluetooth,1271.05,4,Melissa Stephens,São Paulo,Cartão de Crédito,46.82,2.0,5131.0199999999995
+40589164,2026-04-04 21:33:48.320821,Mouse Sem Fio,51.32,4,Thomas Weaver,Porto Alegre,Boleto,44.7,3.0,249.98000000000002
+45713407,2026-01-22 21:33:48.320947,Caixa de Som,1868.81,3,Eddie Brown PhD,Rio de Janeiro,Pix,16.27,3.0,5622.700000000001
+93154902,2026-06-01 21:33:48.321080,Roteador Wi-Fi,1315.38,1,Christine Ward,Salvador,Pix,37.67,2.0,1353.0500000000002
+10601078,2026-04-01 21:33:48.321210,HD Externo 1TB,227.84,1,Brian Morales,São Paulo,Boleto,26.46,2.0,254.3
+20869335,2026-05-13 21:33:48.321337,Smartwatch,1062.92,4,Jamie Bird,São Paulo,Cartão de Crédito,36.3,1.0,4287.9800000000005
+81470980,2026-03-31 21:33:48.321467,SSD 500GB,307.74,1,Joseph Torres,Porto Alegre,Débito,9.02,1.0,316.76
+78566644,2026-01-08 21:33:48.321597,Carregador Portátil,766.75,3,Richard Spears,Belo Horizonte,Débito,39.81,2.0,2340.06
+7148505,2026-05-26 21:33:48.321722,HD Externo 1TB,328.56,5,Lucas Lee,Manaus,Cartão de Crédito,32.46,2.0,1675.26
+72963556,2026-04-04 21:33:48.321855,Carregador Portátil,1458.74,2,Erik Lopez,Salvador,Débito,43.7,1.0,2961.18
+80097802,2026-01-07 21:33:48.321982,Notebook Pro,1517.27,5,Ana Johnson,Salvador,Pix,48.35,3.0,7634.700000000001
+93598921,2026-01-17 21:33:48.322113,Smartwatch,590.09,1,Michael Obrien,Porto Alegre,Pix,40.05,,630.14
+26942938,2025-12-19 21:33:48.322239,Caixa de Som,1701.79,3,Lawrence Ballard,Porto Alegre,Boleto,38.65,3.0,5144.0199999999995
+53860164,2026-05-27 21:33:48.322366,Smartphone X,1578.41,2,Brent Bowers,Recife,Débito,10.07,4.0,3166.8900000000003
+53413415,2026-05-25 21:33:48.322494,"Monitor 24""",188.47,1,Kelsey Burns,Brasília,Pix,10.94,5.0,199.41
+64570789,2026-03-30 21:33:48.322623,Carregador Portátil,1115.39,2,Joshua Klein,Recife,Cartão de Crédito,5.75,1.0,2236.53
+59428526,2025-12-16 21:33:48.322749,Tablet Mini,470.7,1,Elizabeth Brady,Salvador,Pix,33.29,5.0,503.99
+80887908,2026-03-29 21:33:48.322878,Capinha para Celular,1418.53,1,Ray Black,Fortaleza,Boleto,17.49,3.0,1436.02
+27150681,2026-01-02 21:33:48.323005,Teclado Mecânico,1845.8,2,Elizabeth Alvarez,Fortaleza,Pix,22.58,,3714.18
+23179314,2026-05-28 21:33:48.323136,HD Externo 1TB,1304.15,3,Caitlin Jackson,Salvador,Boleto,7.61,1.0,3920.0600000000004
+49976233,2026-04-03 21:33:48.323265,Fone de Ouvido Bluetooth,934.08,5,Virginia Miller,São Paulo,Pix,34.97,,4705.370000000001
+79973377,2026-01-26 21:33:48.323394,Fone de Ouvido Bluetooth,74.7,2,Ryan Sutton,São Paulo,Boleto,27.34,3.0,176.74
+17391176,2026-04-25 21:33:48.323521,Teclado Mecânico,1576.82,3,John Ortiz,Belo Horizonte,Pix,10.71,3.0,4741.17
+3546812,2026-01-12 21:33:48.323650,Câmera Digital,1804.8,3,Joseph Blankenship,Salvador,Pix,28.57,3.0,5442.969999999999
+45011232,2026-05-09 21:33:48.323776,HD Externo 1TB,200.29,4,Kimberly Torres,Fortaleza,Pix,7.49,5.0,808.65
+10408865,2026-01-24 21:33:48.323912,Carregador Portátil,356.75,1,Steven Hoffman,Manaus,Cartão de Crédito,15.28,5.0,372.03
+81928119,2025-12-13 21:33:48.324040,Smartphone X,1724.44,1,Gina Bauer,Porto Alegre,Cartão de Crédito,26.23,4.0,1750.67
+10149672,2026-01-20 21:33:48.324170,Notebook Pro,1865.76,1,Kenneth Hogan,Fortaleza,Débito,15.1,2.0,1880.86
+15164887,2026-03-29 21:33:48.324325,Roteador Wi-Fi,1454.56,3,Beverly Sanders,Rio de Janeiro,Pix,10.37,,4374.05
+96103411,2025-12-26 21:33:48.324459,Notebook Pro,485.21,5,Trevor Gilbert,São Paulo,Débito,8.1,4.0,2434.1499999999996
+5391130,2026-02-23 21:33:48.324588,Câmera Digital,1697.45,3,Julie Nelson,Rio de Janeiro,Débito,5.36,2.0,5097.71
+12006272,2026-02-25 21:33:48.324717,"Monitor 24""",1579.79,5,Kaitlyn Mcknight,Porto Alegre,Débito,21.57,4.0,7920.5199999999995
+34279159,2026-02-01 21:33:48.324848,SSD 500GB,1805.86,2,Mark Owens,Belo Horizonte,Cartão de Crédito,46.96,1.0,3658.68
+65313252,2026-02-10 21:33:48.324975,Teclado Mecânico,725.53,1,Anthony Conner,Brasília,Cartão de Crédito,39.15,4.0,764.68
+31275976,2026-03-01 21:33:48.325102,Fone de Ouvido Bluetooth,450.13,2,Alexander Herring,Salvador,Débito,48.25,2.0,948.51
+52044911,2026-02-22 21:33:48.325234,Fone de Ouvido Bluetooth,135.61,2,Dawn Williams,Fortaleza,Débito,36.54,3.0,307.76000000000005
+36072114,2026-04-09 21:33:48.325364,SSD 500GB,215.56,1,Danielle Baker,Fortaleza,Boleto,33.67,4.0,249.23000000000002
+77513945,2026-01-01 21:33:48.325497,"Monitor 24""",1157.25,4,Reginald Miller,Belo Horizonte,Boleto,18.13,3.0,4647.13
+55471002,2026-03-23 21:33:48.325624,SSD 500GB,1672.2,3,Walter Cummings,Brasília,Débito,17.24,1.0,5033.84
+57249468,2026-02-02 21:33:48.325754,Notebook Pro,1570.88,5,Donna Suarez,Rio de Janeiro,Boleto,9.75,4.0,7864.150000000001
+99085169,2026-04-11 21:33:48.325893,Carregador Portátil,842.7,5,John Gordon,Brasília,Boleto,25.34,4.0,4238.84
+47201195,2026-02-18 21:33:48.326020,Caixa de Som,283.83,2,Lisa Savage,Curitiba,Cartão de Crédito,14.68,3.0,582.3399999999999
+75791352,2026-01-19 21:33:48.326151,Fone de Ouvido Bluetooth,1436.76,3,Rhonda Dunn,Salvador,Cartão de Crédito,35.47,3.0,4345.75
+71940472,2026-01-26 21:33:48.326281,Smartphone X,1906.59,4,Larry Elliott,Fortaleza,Boleto,9.26,1.0,7635.62
+57280457,2026-01-17 21:33:48.326408,Fone de Ouvido Bluetooth,73.32,2,Jessica Morris,Belo Horizonte,Boleto,42.07,3.0,188.70999999999998
+45638497,2026-06-06 21:33:48.326538,HD Externo 1TB,1878.27,1,Jessica Morgan,Manaus,Pix,46.28,1.0,1924.55
+89041385,2025-12-18 21:33:48.326670,Fone de Ouvido Bluetooth,435.61,4,Kristen Anderson,Belo Horizonte,Cartão de Crédito,45.73,3.0,1788.17
+84106880,2026-01-13 21:33:48.326800,Smartphone X,1887.45,1,Peter Nichols,Belo Horizonte,Débito,41.98,4.0,1929.43
+88497416,2026-04-19 21:33:48.326927,Smartphone X,796.32,4,Eric Woods,Belo Horizonte,Pix,14.66,2.0,3199.94
+8568447,2026-02-21 21:33:48.327053,Tablet Mini,919.72,2,James Shaw,São Paulo,Boleto,34.13,4.0,1873.5700000000002
+86574626,2026-03-28 21:33:48.327180,Roteador Wi-Fi,1123.84,1,Tara Rivera,Rio de Janeiro,Pix,22.24,4.0,1146.08
+93061066,2026-02-02 21:33:48.327378,HD Externo 1TB,1775.07,5,Michael Little,Porto Alegre,Cartão de Crédito,49.52,,8924.87
+16457619,2026-03-14 21:33:48.327526,Mouse Sem Fio,1111.81,4,Aaron James,Brasília,Pix,22.48,2.0,4469.719999999999
+16788420,2025-12-19 21:33:48.327657,Carregador Portátil,1214.38,1,Douglas Sandoval,Curitiba,Cartão de Crédito,41.39,4.0,1255.7700000000002
+29362725,2026-04-27 21:33:48.327786,Carregador Portátil,1545.34,2,Oscar May,Belo Horizonte,Cartão de Crédito,16.15,2.0,3106.83
+64869368,2026-02-19 21:33:48.327928,Teclado Mecânico,1641.76,1,Julie Macias,Porto Alegre,Débito,20.97,2.0,1662.73
+6708063,2026-01-27 21:33:48.328059,Smartwatch,1205.41,3,Laurie Miller,Manaus,Cartão de Crédito,36.66,3.0,3652.8900000000003
+32533358,2026-05-07 21:33:48.328190,"Monitor 24""",327.1,2,Jerry Martin,Recife,Pix,12.9,1.0,667.1
+57480564,2026-01-05 21:33:48.328374,Smartphone X,503.62,2,Robert Green,São Paulo,Débito,5.03,5.0,1012.27
+63567338,2026-02-02 21:33:48.328503,Câmera Digital,304.45,2,Jason Lynch,Brasília,Cartão de Crédito,5.99,5.0,614.89
+64738268,2026-06-11 21:33:48.328631,Roteador Wi-Fi,326.22,1,Cory Heath,Fortaleza,Pix,48.23,3.0,374.45000000000005
+92136940,2026-06-11 21:33:48.328758,HD Externo 1TB,821.41,1,Wanda Miller,Brasília,Pix,19.52,2.0,840.93
+82493138,2026-04-03 21:33:48.328888,Câmera Digital,1296.57,4,Douglas Tran,Brasília,Boleto,36.82,5.0,5223.099999999999
+57929969,2026-06-08 21:33:48.329015,Roteador Wi-Fi,1861.25,3,Amber Jimenez,Porto Alegre,Boleto,22.03,,5605.78
+3384675,2026-06-07 21:33:48.329144,Tablet Mini,298.33,1,Jesse Massey,Manaus,Débito,43.28,5.0,341.61
+70904113,2025-12-21 21:33:48.329299,Notebook Pro,1224.66,5,Stacie Abbott,Porto Alegre,Cartão de Crédito,47.15,2.0,6170.45
+93677731,2026-03-07 21:33:48.329435,SSD 500GB,201.72,3,Paul Hansen,Brasília,Boleto,33.63,1.0,638.79
+82645050,2026-06-02 21:33:48.329562,HD Externo 1TB,1472.11,3,Sarah Crawford,Recife,Cartão de Crédito,16.93,2.0,4433.26
+3054021,2026-06-08 21:33:48.329691,Fone de Ouvido Bluetooth,733.44,1,Thomas Wheeler,São Paulo,Cartão de Crédito,22.37,,755.8100000000001
+87317904,2026-03-30 21:33:48.329832,Notebook Pro,1774.88,4,Donald Parker,Salvador,Pix,29.57,1.0,7129.09
+23985806,2026-04-14 21:33:48.329958,Câmera Digital,1734.9,2,Sheila Weaver,Belo Horizonte,Débito,8.32,1.0,3478.1200000000003
+91776084,2026-02-26 21:33:48.330089,Smartphone X,671.5,1,Erica Sanders,Rio de Janeiro,Pix,12.65,4.0,684.15
+16866842,2026-01-23 21:33:48.330218,SSD 500GB,196.25,1,Luis Cooke,Brasília,Débito,36.7,4.0,232.95
+2888130,2026-05-29 21:33:48.330377,Notebook Pro,1234.27,4,Katherine Cisneros,Belo Horizonte,Cartão de Crédito,9.56,2.0,4946.64
+8980594,2026-01-30 21:33:48.330510,Capinha para Celular,1409.53,5,Courtney Klein,Curitiba,Pix,18.38,1.0,7066.03
+40107591,2025-12-25 21:33:48.330640,Capinha para Celular,1164.95,4,Roy Clark,Belo Horizonte,Cartão de Crédito,21.24,4.0,4681.04
+20907508,2026-01-04 21:33:48.330768,Tablet Mini,1656.6,5,Maria Roman,Recife,Boleto,9.36,2.0,8292.36
+31368774,2026-01-25 21:33:48.330902,HD Externo 1TB,619.03,1,William Clark,Recife,Cartão de Crédito,18.88,4.0,637.91
+11491250,2026-04-12 21:33:48.331033,Mouse Sem Fio,1795.01,3,Steven Clark,Rio de Janeiro,Débito,13.32,4.0,5398.349999999999
+55223566,2026-03-17 21:33:48.331160,Notebook Pro,919.26,3,Timothy Richardson,Recife,Débito,16.85,3.0,2774.6299999999997
+61394417,2026-05-06 21:33:48.331290,Smartphone X,344.7,1,Jonathan Hart,Rio de Janeiro,Pix,41.37,4.0,386.07
+21789538,2026-05-12 21:33:48.331417,Smartwatch,1129.52,4,Daniel Terrell,Fortaleza,Débito,48.45,,4566.53
+9077730,2026-04-13 21:33:48.331545,"Monitor 24""",1769.23,4,Heather Harris,Curitiba,Cartão de Crédito,22.77,,7099.6900000000005
+56377365,2025-12-21 21:33:48.331677,Teclado Mecânico,1163.88,5,Robert Jones,Manaus,Boleto,10.41,4.0,5829.81
+8025217,2026-01-26 21:33:48.331806,Notebook Pro,1945.72,2,Scott Pham,Belo Horizonte,Cartão de Crédito,24.05,,3915.4900000000002
+86157213,2026-04-03 21:33:48.331951,Smartwatch,1994.67,2,Donna Molina,Manaus,Pix,19.39,,4008.73
+37648850,2025-12-30 21:33:48.332082,Fone de Ouvido Bluetooth,806.79,4,David Gray,Fortaleza,Pix,43.55,5.0,3270.71
+63501544,2026-04-09 21:33:48.332211,Roteador Wi-Fi,1753.26,5,Patrick Obrien,Manaus,Débito,10.06,2.0,8776.359999999999
+15635670,2026-01-19 21:33:48.332341,"Monitor 24""",1196.47,1,Austin Campbell,Rio de Janeiro,Cartão de Crédito,40.36,5.0,1236.83
+83219225,2026-03-11 21:33:48.332470,Roteador Wi-Fi,851.24,4,Emma Coleman,Recife,Débito,6.69,3.0,3411.65
+66829328,2026-03-26 21:33:48.332625,Notebook Pro,1255.58,4,Andrew Bailey,São Paulo,Débito,45.03,3.0,5067.349999999999
+3184313,2026-06-07 21:33:48.332758,Smartwatch,146.12,4,Michelle Wilson,Curitiba,Pix,5.91,3.0,590.39
+24073687,2026-03-02 21:33:48.332890,Tablet Mini,1693.55,1,Lisa Randall,Porto Alegre,Boleto,18.52,,1712.07
+96291134,2026-04-05 21:33:48.333021,Câmera Digital,1660.36,3,Tanya Newton,Salvador,Cartão de Crédito,13.46,2.0,4994.54
+29456732,2026-03-27 21:33:48.333154,SSD 500GB,994.7,5,Alan Hughes,Brasília,Cartão de Crédito,28.19,2.0,5001.69
+50609482,2025-12-29 21:33:48.333285,Tablet Mini,1433.66,4,Sara Walton,Belo Horizonte,Cartão de Crédito,12.82,2.0,5747.46
+82384964,2025-12-27 21:33:48.333417,Smartwatch,114.49,1,Scott Harrison,Brasília,Boleto,17.33,4.0,131.82
+93262084,2026-04-21 21:33:48.333562,Capinha para Celular,1289.05,1,Angela Leon,São Paulo,Boleto,21.76,5.0,1310.81
+83139304,2026-04-06 21:33:48.333730,Notebook Pro,1923.01,4,Melinda Park,Manaus,Pix,20.49,3.0,7712.53
+5086026,2026-06-07 21:33:48.333952,Fone de Ouvido Bluetooth,605.89,4,Gene Ochoa,São Paulo,Boleto,43.42,2.0,2466.98
+45277066,2026-02-07 21:33:48.334128,HD Externo 1TB,488.97,2,Elizabeth Kim,Curitiba,Débito,28.1,,1006.0400000000001
+35833219,2025-12-15 21:33:48.334352,Mouse Sem Fio,1827.46,2,Brittany Ward,Manaus,Cartão de Crédito,15.07,5.0,3669.9900000000002
+68268039,2026-03-01 21:33:48.334509,SSD 500GB,1935.7,3,Dustin Harris,Salvador,Débito,43.32,4.0,5850.42
+70310139,2026-02-15 21:33:48.334659,Smartwatch,960.06,5,Eduardo Allen,Manaus,Débito,31.3,1.0,4831.599999999999
+92636935,2026-04-22 21:33:48.334841,HD Externo 1TB,1934.65,3,Andrew Davis,Fortaleza,Pix,18.43,1.0,5822.380000000001
+96881813,2026-04-15 21:33:48.334989,Fone de Ouvido Bluetooth,705.75,3,Andrew Rogers,Brasília,Pix,16.75,,2134.0
+48795157,2026-05-28 21:33:48.335126,Tablet Mini,417.3,5,Amanda Joseph,Porto Alegre,Cartão de Crédito,41.24,5.0,2127.74
+85446982,2026-03-26 21:33:48.335321,HD Externo 1TB,673.19,2,Morgan Oconnell,São Paulo,Débito,49.89,3.0,1396.2700000000002
+37487036,2026-03-30 21:33:48.335488,Capinha para Celular,807.14,1,Charles Erickson,Manaus,Boleto,20.44,,827.58
+99539360,2026-02-07 21:33:48.335631,HD Externo 1TB,1092.54,4,Nichole Valencia,Brasília,Pix,43.04,,4413.2
+81797339,2026-05-04 21:33:48.335783,Notebook Pro,622.88,4,Kayla Nelson MD,Belo Horizonte,Pix,37.63,5.0,2529.15
+52711936,2026-01-28 21:33:48.335981,HD Externo 1TB,1804.2,1,Sharon Lane,Porto Alegre,Pix,15.05,3.0,1819.25
+1716657,2026-03-30 21:33:48.336127,Câmera Digital,1779.34,3,Nathan Martin,Curitiba,Pix,25.87,1.0,5363.889999999999
+71817337,2026-04-12 21:33:48.336286,Smartphone X,1739.47,5,Jose Rodgers,Manaus,Cartão de Crédito,26.25,2.0,8723.6
+18488623,2026-04-20 21:33:48.336446,Fone de Ouvido Bluetooth,1741.62,4,Melissa Mayo,Fortaleza,Pix,23.59,2.0,6990.07
+95535321,2026-01-17 21:33:48.336584,Smartwatch,718.21,5,Michelle House,Recife,Boleto,19.24,,3610.29
+66860011,2026-01-28 21:33:48.336715,Câmera Digital,207.58,3,Alec Freeman,Belo Horizonte,Pix,33.55,1.0,656.29
+14863536,2026-04-07 21:33:48.336857,Tablet Mini,458.3,2,Donald Mcintosh,Manaus,Boleto,27.03,1.0,943.63
+57379430,2026-01-15 21:33:48.336985,"Monitor 24""",895.74,4,Brandy Thomas,Salvador,Débito,48.44,4.0,3631.4
+86473709,2025-12-14 21:33:48.337114,Smartphone X,1090.88,3,Lance Wright,São Paulo,Pix,39.06,5.0,3311.7000000000003
+35553731,2026-01-30 21:33:48.337249,Smartphone X,1369.66,2,Christopher Ward,Porto Alegre,Pix,19.04,1.0,2758.36
+2327292,2026-03-21 21:33:48.337396,Teclado Mecânico,1197.91,2,Deanna Gregory,Rio de Janeiro,Cartão de Crédito,18.42,3.0,2414.2400000000002
+60158307,2026-04-08 21:33:48.337551,SSD 500GB,1064.56,5,Justin Kirby,Brasília,Débito,44.96,2.0,5367.759999999999
+9318151,2026-03-10 21:33:48.337686,Roteador Wi-Fi,1005.85,2,Jim Malone,Belo Horizonte,Débito,5.86,2.0,2017.56
+96681256,2026-01-15 21:33:48.337818,Smartwatch,1481.45,5,Robert Brewer,Fortaleza,Boleto,10.54,,7417.79
+21364106,2026-05-28 21:33:48.337988,Câmera Digital,122.86,3,Miranda Stanton,Fortaleza,Cartão de Crédito,31.73,1.0,400.31
+45869541,2026-05-31 21:33:48.338126,Fone de Ouvido Bluetooth,1324.46,1,Michael Price,São Paulo,Cartão de Crédito,23.75,4.0,1348.21
+76834067,2026-01-13 21:33:48.338253,Teclado Mecânico,542.84,2,Sarah Cox,Porto Alegre,Cartão de Crédito,18.55,,1104.23
+77028551,2026-01-07 21:33:48.338423,HD Externo 1TB,1064.6,5,James Pope,Manaus,Boleto,23.85,1.0,5346.85
+19437767,2026-04-22 21:33:48.338640,SSD 500GB,1254.51,3,Susan Jenkins,Rio de Janeiro,Cartão de Crédito,27.4,5.0,3790.93
+58569714,2026-02-02 21:33:48.338798,Câmera Digital,562.84,5,Lauren Jones,Porto Alegre,Pix,36.65,3.0,2850.8500000000004
+76012794,2026-01-23 21:33:48.338942,Smartphone X,1118.87,2,Jason Anderson,Recife,Pix,15.55,1.0,2253.29
+1464189,2026-06-02 21:33:48.339074,Fone de Ouvido Bluetooth,1818.42,5,Abigail French,Recife,Boleto,47.73,5.0,9139.83
+78011845,2026-01-01 21:33:48.339219,SSD 500GB,1460.97,3,Theresa Anderson,Porto Alegre,Débito,49.49,3.0,4432.4
+31797394,2026-02-18 21:33:48.339438,Mouse Sem Fio,147.66,2,Katie Burke,São Paulo,Pix,21.21,,316.53
+22307422,2026-03-03 21:33:48.339579,Capinha para Celular,1490.15,1,Tonya Gray,São Paulo,Cartão de Crédito,43.34,,1533.49
+3111400,2026-05-27 21:33:48.339719,Notebook Pro,690.89,4,Mary Campbell,Manaus,Pix,44.53,1.0,2808.09
+39999957,2026-03-18 21:33:48.339880,Caixa de Som,718.31,1,Victoria Wolfe,Salvador,Débito,48.3,3.0,766.6099999999999
+83156869,2026-03-21 21:33:48.340012,SSD 500GB,1708.81,4,Krystal Garcia,Belo Horizonte,Cartão de Crédito,10.96,,6846.2
+19648166,2025-12-28 21:33:48.340141,Caixa de Som,360.82,4,Morgan Allen,Manaus,Débito,41.1,,1484.3799999999999
+94224779,2026-04-04 21:33:48.340270,Notebook Pro,1242.08,3,Kelly Ortiz,Manaus,Cartão de Crédito,43.82,,3770.06
+22690335,2026-01-15 21:33:48.340398,Mouse Sem Fio,1844.78,1,Paul Burns,Salvador,Débito,7.07,3.0,1851.85
+36596753,2026-05-29 21:33:48.340528,Carregador Portátil,74.1,5,Joshua Allen,Manaus,Boleto,49.01,,419.51
+76355176,2026-03-09 21:33:48.340657,Teclado Mecânico,1070.05,5,Tim Flynn,Rio de Janeiro,Débito,34.78,2.0,5385.03
+9180029,2026-04-15 21:33:48.340783,Carregador Portátil,1344.24,4,Thomas Maldonado,Belo Horizonte,Cartão de Crédito,5.52,2.0,5382.4800000000005
+70180983,2026-04-21 21:33:48.340910,Caixa de Som,965.11,4,Joe Murray,Belo Horizonte,Cartão de Crédito,38.81,3.0,3899.25
+55303217,2026-02-12 21:33:48.341052,Carregador Portátil,1941.78,1,Larry Miller,Fortaleza,Boleto,29.77,4.0,1971.55
+61589147,2026-03-26 21:33:48.341179,Caixa de Som,508.25,4,Mitchell Rodgers,Recife,Débito,8.96,4.0,2041.96
+31810175,2026-04-06 21:33:48.341306,Carregador Portátil,281.48,4,Elizabeth Hernandez,São Paulo,Cartão de Crédito,23.15,1.0,1149.0700000000002
+95600709,2026-05-04 21:33:48.341437,Teclado Mecânico,50.33,1,Katelyn Terry,Manaus,Pix,45.05,5.0,95.38
+43976726,2026-02-03 21:33:48.341565,HD Externo 1TB,1359.38,3,Brian Wilson,Brasília,Cartão de Crédito,41.75,4.0,4119.89
+63355474,2026-03-07 21:33:48.341691,Teclado Mecânico,1546.46,5,Diane Bell,Recife,Pix,37.22,1.0,7769.52
+61393070,2026-01-06 21:33:48.341819,Câmera Digital,1334.87,1,Alison Meadows,Brasília,Pix,42.34,3.0,1377.2099999999998
+21746637,2026-05-02 21:33:48.341948,Teclado Mecânico,779.09,1,Ashley Gomez,São Paulo,Boleto,27.16,,806.25
+11329839,2026-03-27 21:33:48.342076,Fone de Ouvido Bluetooth,545.86,2,Brittany Hammond,Porto Alegre,Cartão de Crédito,46.86,4.0,1138.58
+40144285,2026-02-06 21:33:48.342203,Mouse Sem Fio,1657.88,2,Brittney Williams,Brasília,Cartão de Crédito,39.07,1.0,3354.8300000000004
+600691,2026-05-24 21:33:48.342338,Caixa de Som,1360.68,1,Maria Bradford,Recife,Débito,34.63,5.0,1395.3100000000002
+69091346,2026-01-16 21:33:48.342466,Mouse Sem Fio,58.46,1,James Williams,Fortaleza,Débito,42.75,4.0,101.21000000000001
+42612596,2026-04-22 21:33:48.342596,Câmera Digital,1846.27,2,Sherry White,Manaus,Boleto,37.87,2.0,3730.41
+86186769,2026-01-08 21:33:48.342723,Capinha para Celular,1332.17,5,Angela Green,Brasília,Débito,23.84,5.0,6684.6900000000005
+12125207,2026-06-08 21:33:48.342851,Câmera Digital,534.07,4,Valerie Gonzalez,Brasília,Pix,25.38,2.0,2161.6600000000003
+29540649,2026-01-17 21:33:48.342979,Capinha para Celular,1224.92,5,Carmen Thompson,Curitiba,Pix,37.03,5.0,6161.63
+73733864,2026-05-23 21:33:48.343119,Smartwatch,441.73,5,Sean Ewing,Curitiba,Pix,46.45,2.0,2255.1
+45736027,2026-05-28 21:33:48.343245,Notebook Pro,1032.59,3,Marcus Gonzalez,Rio de Janeiro,Pix,30.3,5.0,3128.0699999999997
+88576457,2026-05-08 21:33:48.343371,HD Externo 1TB,1434.74,5,Marcus Gilbert,Curitiba,Débito,41.37,5.0,7215.07
+55280687,2026-01-09 21:33:48.343502,Smartphone X,792.7,1,Emily Schultz,São Paulo,Boleto,17.01,2.0,809.71
+5999560,2026-02-24 21:33:48.343631,HD Externo 1TB,538.59,1,Michael Watson,Curitiba,Boleto,38.91,1.0,577.5
+36412016,2026-03-14 21:33:48.343759,Caixa de Som,932.56,5,Jeffrey Rodriguez,Fortaleza,Boleto,38.41,5.0,4701.209999999999
+4885926,2026-03-22 21:33:48.344126,Smartwatch,1046.3,3,Paula Thomas,São Paulo,Débito,22.44,,3161.3399999999997
+35518713,2026-03-03 21:33:48.344385,Teclado Mecânico,154.91,3,John Smith,Porto Alegre,Débito,42.35,,507.08000000000004
+95144666,2026-06-11 21:33:48.344586,SSD 500GB,1312.88,5,Julian Foster,Fortaleza,Boleto,39.93,2.0,6604.330000000001
+81114362,2026-02-26 21:33:48.344722,Mouse Sem Fio,395.98,1,Tracey Alvarez,Belo Horizonte,Boleto,38.08,1.0,434.06
+37910877,2026-03-19 21:33:48.344855,Smartphone X,885.59,5,Elizabeth Johnson,Curitiba,Boleto,12.24,3.0,4440.19
+56461125,2025-12-14 21:33:48.344986,Carregador Portátil,959.35,2,Susan Harvey,São Paulo,Boleto,46.79,5.0,1965.49
+27918914,2025-12-26 21:33:48.345115,Câmera Digital,1868.14,5,Jordan Walton,Curitiba,Débito,40.55,5.0,9381.25
+35289305,2026-03-14 21:33:48.345254,Fone de Ouvido Bluetooth,1578.86,3,Angela Anderson,Fortaleza,Boleto,48.06,5.0,4784.64
+24945705,2025-12-30 21:33:48.345411,Câmera Digital,1035.02,4,Mr. David Moses,Fortaleza,Débito,9.14,2.0,4149.22
+83013553,2026-02-05 21:33:48.345563,HD Externo 1TB,697.17,3,Kathleen Olson,Curitiba,Boleto,47.76,5.0,2139.27
+2630435,2026-04-27 21:33:48.345695,Mouse Sem Fio,1993.43,1,Mary Castro,Rio de Janeiro,Pix,25.06,,2018.49
+12634763,2026-05-19 21:33:48.345825,Roteador Wi-Fi,1261.21,1,Beth Smith,Brasília,Débito,46.22,1.0,1307.43
+52633904,2026-03-21 21:33:48.345954,Tablet Mini,1103.46,3,Rebecca Kim,São Paulo,Pix,28.14,5.0,3338.52
+36536465,2026-04-06 21:33:48.346083,Mouse Sem Fio,135.51,2,Sara Hill,Brasília,Cartão de Crédito,47.67,2.0,318.69
+41532577,2026-04-29 21:33:48.346214,Teclado Mecânico,64.29,1,Elizabeth Turner,Porto Alegre,Boleto,43.92,4.0,108.21000000000001
+33549214,2026-01-08 21:33:48.346344,Smartwatch,1098.62,4,Jeffrey Campbell,Rio de Janeiro,Boleto,6.07,,4400.549999999999
+16364971,2026-03-07 21:33:48.346471,Smartphone X,220.67,1,Ryan Bennett,Belo Horizonte,Pix,30.11,5.0,250.77999999999997
+65466783,2026-02-09 21:33:48.346597,Roteador Wi-Fi,554.36,4,William Farmer,Recife,Débito,24.49,1.0,2241.93
+90915775,2026-03-22 21:33:48.346723,HD Externo 1TB,280.7,1,Stephen Vaughn,Manaus,Cartão de Crédito,39.02,5.0,319.71999999999997
+64632241,2025-12-24 21:33:48.346849,SSD 500GB,1704.09,3,Amy Perez,Fortaleza,Cartão de Crédito,18.04,,5130.3099999999995
+30649915,2026-02-28 21:33:48.346978,"Monitor 24""",218.69,4,Danielle Perez,Salvador,Débito,42.0,1.0,916.76
+95644509,2026-04-13 21:33:48.347106,Notebook Pro,1090.26,2,Rachel Salas,Salvador,Pix,48.21,2.0,2228.73
+79377342,2026-02-27 21:33:48.347235,HD Externo 1TB,1779.61,3,Leah Jones DVM,São Paulo,Boleto,10.55,1.0,5349.38
+42109053,2026-05-08 21:33:48.347371,"Monitor 24""",818.46,5,Katie Wheeler,Rio de Janeiro,Pix,14.45,,4106.75
+45582883,2026-03-11 21:33:48.347500,Smartwatch,854.68,5,Jessica Nunez,Belo Horizonte,Boleto,13.28,5.0,4286.679999999999
+1885989,2026-02-15 21:33:48.347635,Smartwatch,273.51,5,Thomas Patterson,São Paulo,Débito,34.01,1.0,1401.56
+98229596,2026-02-25 21:33:48.347762,HD Externo 1TB,181.36,1,Jacob Wood,Porto Alegre,Débito,47.82,3.0,229.18
+21478911,2026-01-14 21:33:48.347893,HD Externo 1TB,1328.17,1,Matthew Rivera,Curitiba,Cartão de Crédito,45.51,3.0,1373.68
+32478454,2026-04-16 21:33:48.348022,Mouse Sem Fio,690.27,3,Annette Maynard,Manaus,Boleto,30.45,3.0,2101.2599999999998
+85984271,2026-03-03 21:33:48.348150,Capinha para Celular,378.85,3,Tina Harris,Porto Alegre,Boleto,37.05,,1173.6000000000001
+85406037,2026-04-03 21:33:48.348280,Tablet Mini,1688.21,2,Jeffrey Meadows,Brasília,Débito,25.83,3.0,3402.25
+27924599,2026-03-01 21:33:48.348405,Mouse Sem Fio,1125.76,2,Michael Sutton,Manaus,Cartão de Crédito,42.88,2.0,2294.4
+66464924,2026-04-29 21:33:48.348544,Smartwatch,563.31,1,Peter Cunningham,Rio de Janeiro,Cartão de Crédito,43.23,,606.54
+37482414,2025-12-20 21:33:48.348673,Caixa de Som,1184.69,4,Kevin Williams,Manaus,Boleto,45.78,5.0,4784.54
+95646737,2026-02-17 21:33:48.348800,Teclado Mecânico,1793.27,5,Barbara Tate,Recife,Boleto,21.46,2.0,8987.81
+58289311,2026-05-12 21:33:48.348928,SSD 500GB,1721.47,2,Carol Wood,Recife,Cartão de Crédito,22.86,5.0,3465.8
+10797206,2025-12-15 21:33:48.349056,HD Externo 1TB,515.82,5,Jacob Hernandez,Belo Horizonte,Boleto,25.08,2.0,2604.1800000000003
+94851467,2026-05-06 21:33:48.349186,"Monitor 24""",1335.86,2,Mr. Isaac Campos IV,Recife,Pix,6.82,4.0,2678.54
+63976844,2026-02-10 21:33:48.349324,Fone de Ouvido Bluetooth,565.5,2,Ruben Smith,São Paulo,Boleto,28.3,3.0,1159.3
+92507540,2026-03-22 21:33:48.349451,Mouse Sem Fio,1839.91,1,Destiny Gallegos,São Paulo,Pix,9.65,5.0,1849.5600000000002
+71355096,2026-05-24 21:33:48.349587,Caixa de Som,583.32,3,Nicole Robinson,Manaus,Boleto,21.95,4.0,1771.91
+73052619,2026-03-16 21:33:48.349717,"Monitor 24""",1324.01,1,John Fuller,Fortaleza,Pix,21.93,2.0,1345.94
+5027463,2026-04-24 21:33:48.349843,Capinha para Celular,738.15,3,Clarence Garcia,Recife,Débito,44.92,1.0,2259.37
+63849337,2026-04-20 21:33:48.349969,Roteador Wi-Fi,320.99,2,Natalie York,Porto Alegre,Cartão de Crédito,28.15,3.0,670.13
+50032146,2026-02-05 21:33:48.350097,Notebook Pro,414.47,3,Samantha Keller MD,Manaus,Cartão de Crédito,34.75,4.0,1278.16
+66944581,2026-03-07 21:33:48.350232,SSD 500GB,271.01,4,Mr. Michael Martinez,Recife,Boleto,31.59,,1115.6299999999999
+26904926,2026-03-28 21:33:48.350457,Smartphone X,525.16,2,Andrea Allen,Manaus,Boleto,11.06,5.0,1061.3799999999999
+16406496,2025-12-23 21:33:48.350606,Roteador Wi-Fi,1165.93,1,Lisa Payne,Belo Horizonte,Pix,46.51,5.0,1212.44
+42678778,2026-03-26 21:33:48.350736,"Monitor 24""",1940.03,1,Mr. Kenneth Brown,Curitiba,Cartão de Crédito,14.75,5.0,1954.78
+9158097,2026-04-12 21:33:48.350872,Caixa de Som,989.25,2,Mindy Wise,Salvador,Boleto,40.76,2.0,2019.26
+82572837,2026-05-21 21:33:48.351002,HD Externo 1TB,1046.07,2,Patrick Waters,Brasília,Débito,31.84,1.0,2123.98
+3093098,2026-02-09 21:33:48.351129,Capinha para Celular,801.65,1,Emily Rodriguez,São Paulo,Boleto,28.52,5.0,830.17
+64709046,2026-06-06 21:33:48.351258,Capinha para Celular,1661.7,5,Gary Smith,Rio de Janeiro,Boleto,26.41,5.0,8334.91
+30510159,2026-05-15 21:33:48.351403,Smartphone X,1761.62,5,Lauren Jensen,Fortaleza,Cartão de Crédito,9.19,,8817.289999999999
+7054883,2026-01-15 21:33:48.351574,Roteador Wi-Fi,1226.78,1,Richard Frye,Salvador,Débito,21.67,1.0,1248.45
+97941740,2026-06-09 21:33:48.351713,Teclado Mecânico,886.46,4,Steven Potts,Salvador,Pix,31.51,,3577.3500000000004
+21890262,2026-06-09 21:33:48.351842,"Monitor 24""",240.55,2,Sarah Richardson,Curitiba,Débito,39.46,1.0,520.5600000000001
+27917162,2026-02-23 21:33:48.351974,"Monitor 24""",1759.69,4,Roberta Griffith,Curitiba,Boleto,5.25,,7044.01
+80589628,2025-12-14 21:33:48.352103,"Monitor 24""",1068.95,5,Chad Solomon,São Paulo,Débito,34.45,,5379.2
+18341804,2026-03-03 21:33:48.352232,Capinha para Celular,756.43,2,Jon Keller,Salvador,Pix,16.76,5.0,1529.62
+87865943,2026-03-31 21:33:48.352366,"Monitor 24""",763.01,3,Jason Gonzalez,Salvador,Boleto,23.6,5.0,2312.6299999999997
+64173613,2026-04-15 21:33:48.352494,Notebook Pro,771.92,5,John Wells,Recife,Pix,49.48,5.0,3909.08
+54714626,2026-03-11 21:33:48.352692,Câmera Digital,1425.71,2,Molly Johnston,Rio de Janeiro,Boleto,25.1,,2876.52
+50060894,2026-01-23 21:33:48.352989,Fone de Ouvido Bluetooth,468.19,4,Christine Conrad,Brasília,Cartão de Crédito,12.23,,1884.99
+70646912,2025-12-14 21:33:48.353243,Câmera Digital,227.62,2,Sherri Brown,Recife,Débito,8.97,3.0,464.21000000000004
+58447055,2026-02-07 21:33:48.353598,Carregador Portátil,206.08,1,Steven Martinez,Salvador,Débito,32.63,5.0,238.71
+41984672,2026-02-24 21:33:48.353925,SSD 500GB,1928.88,1,Shaun Ibarra,Belo Horizonte,Débito,24.75,2.0,1953.63
+29262835,2026-05-30 21:33:48.354070,Roteador Wi-Fi,1617.62,3,Justin Wood,Porto Alegre,Cartão de Crédito,40.28,5.0,4893.139999999999
+35006496,2026-04-24 21:33:48.354200,SSD 500GB,501.76,2,Tanya Small,São Paulo,Pix,15.77,1.0,1019.29
+96343265,2026-01-22 21:33:48.354340,Fone de Ouvido Bluetooth,1993.79,4,Sandra Velez,Brasília,Débito,23.25,2.0,7998.41
+49666678,2026-04-24 21:33:48.354470,Smartphone X,1487.0,1,Ashley Morgan,Rio de Janeiro,Pix,37.68,5.0,1524.68
+31285332,2026-05-11 21:33:48.354600,Carregador Portátil,727.58,3,Karina Thomas,Porto Alegre,Boleto,25.46,4.0,2208.2000000000003
+38522686,2026-05-09 21:33:48.354733,Smartphone X,559.16,4,Matthew Morrison,Fortaleza,Cartão de Crédito,30.14,5.0,2266.7799999999997
+88404137,2026-02-26 21:33:48.354859,Carregador Portátil,1896.68,5,Daniel Jimenez,Curitiba,Pix,36.24,4.0,9519.64
+51035943,2026-05-06 21:33:48.354986,Mouse Sem Fio,1551.44,3,Deborah Delgado,Recife,Débito,45.34,1.0,4699.66
+44593801,2026-04-15 21:33:48.355114,Fone de Ouvido Bluetooth,552.75,4,Robin Vazquez,Porto Alegre,Boleto,41.01,4.0,2252.01
+22769332,2026-03-13 21:33:48.355243,Teclado Mecânico,1094.52,3,Tammy Hendrix,Porto Alegre,Pix,9.19,,3292.75
+51485837,2026-03-10 21:33:48.355378,Fone de Ouvido Bluetooth,1131.38,2,Ashley Mooney,Recife,Pix,20.91,5.0,2283.67
+47361853,2026-02-19 21:33:48.355507,Notebook Pro,1896.88,2,Tiffany Grimes,Recife,Boleto,15.57,2.0,3809.3300000000004
+74430578,2026-02-18 21:33:48.355642,Smartwatch,496.95,2,Derek Jones,Manaus,Pix,12.02,1.0,1005.92
+28230060,2026-01-12 21:33:48.355768,Roteador Wi-Fi,203.05,4,Donald Rivers,Manaus,Cartão de Crédito,39.39,5.0,851.59
+25553061,2025-12-23 21:33:48.355894,Caixa de Som,990.47,5,Daniel Willis,Brasília,Débito,45.42,5.0,4997.77
+70600151,2026-02-21 21:33:48.356020,Mouse Sem Fio,406.6,5,Jennifer Gonzalez,Curitiba,Débito,14.99,5.0,2047.99
+49651426,2026-01-14 21:33:48.356151,Smartphone X,1075.18,4,Darrell Smith,Recife,Cartão de Crédito,27.61,4.0,4328.33
+65290920,2026-06-06 21:33:48.356278,Câmera Digital,390.86,1,Jon Richardson,Fortaleza,Débito,19.2,1.0,410.06
+1888608,2025-12-16 21:33:48.356424,HD Externo 1TB,460.97,5,Jeffrey Baker,Rio de Janeiro,Pix,21.27,3.0,2326.1200000000003
+72186652,2026-01-29 21:33:48.356550,Teclado Mecânico,562.56,3,Brad Gonzales,Recife,Pix,21.47,4.0,1709.1499999999999
+54873961,2026-03-31 21:33:48.356680,Smartwatch,867.23,3,Claudia Yates DVM,Brasília,Débito,17.58,2.0,2619.27
+19331804,2026-05-08 21:33:48.356816,Notebook Pro,1959.58,2,Daniel Buchanan,Rio de Janeiro,Pix,41.18,5.0,3960.3399999999997
+42565752,2026-04-02 21:33:48.356942,Caixa de Som,792.72,2,Joseph Evans,Belo Horizonte,Débito,41.26,2.0,1626.7
+46367284,2026-03-30 21:33:48.357067,Mouse Sem Fio,312.22,5,Cynthia Sellers,Fortaleza,Pix,40.34,3.0,1601.44
+41812788,2026-02-15 21:33:48.357199,Teclado Mecânico,1724.08,1,Victoria Garcia,Salvador,Cartão de Crédito,36.07,1.0,1760.1499999999999
+93636721,2026-02-06 21:33:48.357340,Caixa de Som,545.86,1,John Gregory,Recife,Pix,16.69,3.0,562.5500000000001
+1407740,2026-05-05 21:33:48.357470,Teclado Mecânico,1867.1,3,Brenda Anderson,Brasília,Cartão de Crédito,23.53,3.0,5624.829999999999
+13085077,2026-06-04 21:33:48.357599,"Monitor 24""",437.97,5,Joseph Brown,Fortaleza,Boleto,49.07,3.0,2238.9200000000005
+84775659,2026-03-13 21:33:48.357725,Carregador Portátil,1362.73,4,Troy Young,Recife,Cartão de Crédito,22.15,3.0,5473.07
+72601669,2026-04-10 21:33:48.357851,HD Externo 1TB,1915.36,2,Brandy Carrillo,Brasília,Débito,33.41,5.0,3864.1299999999997
+57056926,2026-03-26 21:33:48.357980,Caixa de Som,1818.79,1,Krista Stark,Belo Horizonte,Pix,15.27,3.0,1834.06
+17058375,2026-05-29 21:33:48.358108,Tablet Mini,1435.35,5,Alexander Carter,Salvador,Pix,44.95,3.0,7221.7
+31061458,2026-05-12 21:33:48.358234,Teclado Mecânico,1932.78,4,Wayne Nelson,Belo Horizonte,Boleto,43.44,2.0,7774.5599999999995
+10579861,2026-02-11 21:33:48.358406,HD Externo 1TB,540.71,1,Lisa Meyers,Porto Alegre,Boleto,22.87,1.0,563.58
+24650944,2025-12-29 21:33:48.358536,Roteador Wi-Fi,1763.45,5,Gregory Howard,São Paulo,Cartão de Crédito,39.69,5.0,8856.94
+5346880,2026-01-03 21:33:48.358665,Fone de Ouvido Bluetooth,561.78,2,Christine Meyer,Rio de Janeiro,Débito,18.92,2.0,1142.48
+61950109,2026-02-23 21:33:48.358795,Mouse Sem Fio,1271.64,2,Lauren Dean,Fortaleza,Boleto,6.29,,2549.57
+55124216,2026-03-14 21:33:48.358923,Caixa de Som,1834.78,4,Ashley Kim,Recife,Pix,29.68,2.0,7368.8
+97548486,2026-06-09 21:33:48.359066,Teclado Mecânico,395.22,5,Michael Dominguez,Recife,Débito,28.56,,2004.66
+67729033,2026-04-28 21:33:48.359193,Tablet Mini,1822.4,4,Christopher Lewis,Fortaleza,Boleto,41.21,4.0,7330.81
+2425826,2026-03-01 21:33:48.359410,Carregador Portátil,853.8,2,Christina Rios,Curitiba,Cartão de Crédito,5.0,2.0,1712.6
+28932269,2026-03-11 21:33:48.359575,Tablet Mini,964.94,1,Mary Ramirez,Recife,Débito,18.48,4.0,983.4200000000001
+11459748,2026-02-25 21:33:48.359712,"Monitor 24""",500.87,1,Shawn Anderson,Fortaleza,Pix,13.49,5.0,514.36
+66669995,2026-04-03 21:33:48.359841,Capinha para Celular,537.3,4,Eric Lawson,Salvador,Boleto,16.83,4.0,2166.0299999999997
+28653628,2026-05-22 21:33:48.359970,Smartwatch,1057.39,5,Andrea Gonzales,Curitiba,Pix,34.18,5.0,5321.130000000001
+10607852,2026-02-19 21:33:48.360099,Capinha para Celular,416.6,1,Thomas Norris,Belo Horizonte,Boleto,18.03,,434.63
+86395388,2026-04-08 21:33:48.360228,"Monitor 24""",932.9,5,Terrence Carter,Recife,Boleto,19.43,2.0,4683.93
+97424505,2025-12-25 21:33:48.360363,Teclado Mecânico,93.16,1,Tamara Hunter,Curitiba,Pix,10.63,4.0,103.78999999999999
+61503099,2025-12-15 21:33:48.360493,Smartwatch,225.88,1,Kyle Thompson,Recife,Boleto,20.39,3.0,246.26999999999998
+82457515,2026-04-19 21:33:48.360619,Carregador Portátil,954.18,1,Catherine Page,Brasília,Cartão de Crédito,42.96,2.0,997.14
+25607742,2025-12-27 21:33:48.360749,Tablet Mini,1562.52,1,Kyle Mann,Fortaleza,Débito,13.17,3.0,1575.69
+6766303,2026-03-20 21:33:48.360875,Caixa de Som,74.6,2,Carolyn Stone,Salvador,Débito,16.12,1.0,165.32
+98294335,2026-02-01 21:33:48.361004,Mouse Sem Fio,1483.88,1,Brandon Frey,Fortaleza,Boleto,26.28,,1510.16
+87811449,2026-03-02 21:33:48.361146,Roteador Wi-Fi,679.97,1,Richard Hawkins,Fortaleza,Cartão de Crédito,16.4,,696.37
+21861664,2026-02-27 21:33:48.361272,Smartwatch,752.83,1,Courtney Kaiser,Porto Alegre,Cartão de Crédito,15.62,4.0,768.45
+53256249,2026-03-06 21:33:48.361409,Smartphone X,376.35,3,Donna Gomez,Manaus,Cartão de Crédito,22.81,2.0,1151.8600000000001
+78139234,2025-12-15 21:33:48.361539,Smartphone X,1183.1,4,Kelsey Garcia,Manaus,Boleto,21.71,1.0,4754.11
+46375823,2026-02-14 21:33:48.361672,Notebook Pro,1024.84,5,Pamela Allen,Brasília,Cartão de Crédito,7.69,,5131.889999999999
+62498315,2026-01-21 21:33:48.361800,SSD 500GB,1095.89,1,James Gilbert,Belo Horizonte,Débito,15.47,5.0,1111.3600000000001
+77799825,2026-05-27 21:33:48.361926,Câmera Digital,727.27,4,Micheal Hobbs DDS,Porto Alegre,Cartão de Crédito,36.02,3.0,2945.1
+28281563,2026-01-16 21:33:48.362061,Tablet Mini,1802.39,4,Melissa Summers,Recife,Pix,29.42,4.0,7238.9800000000005
+2727513,2026-01-30 21:33:48.362191,"Monitor 24""",413.92,3,Kelsey Jefferson,Brasília,Débito,17.39,5.0,1259.15
+49725468,2026-05-03 21:33:48.362331,Notebook Pro,184.31,2,Dana Reese,Recife,Pix,41.87,5.0,410.49
+82962071,2026-03-16 21:33:48.362463,Mouse Sem Fio,51.4,5,Beth Acosta,Salvador,Boleto,44.73,5.0,301.73
+16720716,2026-03-16 21:33:48.362593,Câmera Digital,1259.38,3,Karen Kemp,Rio de Janeiro,Débito,13.54,,3791.6800000000003
+71373391,2026-04-19 21:33:48.362726,Câmera Digital,1125.36,5,Curtis Schneider,Curitiba,Pix,23.44,3.0,5650.239999999999
+62493752,2026-01-10 21:33:48.362852,Fone de Ouvido Bluetooth,1070.24,1,Rebecca Murphy,São Paulo,Boleto,13.04,1.0,1083.28
+8269399,2026-02-02 21:33:48.362981,Fone de Ouvido Bluetooth,996.47,1,Jessica Cannon,São Paulo,Débito,34.61,5.0,1031.08
+91428031,2026-05-21 21:33:48.363119,SSD 500GB,1201.09,1,Nicole Lindsey,Brasília,Boleto,32.27,1.0,1233.36
+36938069,2025-12-16 21:33:48.363247,Roteador Wi-Fi,1846.02,4,Charles Watson,Rio de Janeiro,Débito,41.05,1.0,7425.13
+64242082,2026-03-15 21:33:48.363382,Teclado Mecânico,1499.78,4,Sarah Miller,Brasília,Cartão de Crédito,42.06,3.0,6041.18
+81573372,2026-04-27 21:33:48.363512,Smartphone X,1481.89,3,Tammy Mcdonald,Rio de Janeiro,Boleto,48.23,1.0,4493.9
+35971078,2026-01-07 21:33:48.363641,SSD 500GB,500.49,4,Shelley Callahan,Porto Alegre,Boleto,28.68,2.0,2030.64
+17913543,2026-05-07 21:33:48.363769,HD Externo 1TB,1897.63,5,Glen Black,Fortaleza,Débito,38.57,,9526.720000000001
+95122979,2026-05-09 21:33:48.363896,Carregador Portátil,1365.26,4,Eric Richardson,Rio de Janeiro,Boleto,40.66,5.0,5501.7
+41018734,2026-03-25 21:33:48.364023,Teclado Mecânico,708.15,2,Michelle Harris,Fortaleza,Débito,47.01,3.0,1463.31
+96632700,2026-05-02 21:33:48.364153,Carregador Portátil,1697.47,4,Martha Calderon,Salvador,Pix,32.38,5.0,6822.26
+36539051,2026-05-01 21:33:48.364297,Smartwatch,781.37,5,Robert Nguyen,Curitiba,Pix,48.27,4.0,3955.12
+48597037,2026-03-24 21:33:48.364427,Smartphone X,1466.31,3,Trevor Velasquez,Manaus,Cartão de Crédito,28.29,3.0,4427.22
+42468770,2025-12-14 21:33:48.364553,Tablet Mini,1969.57,2,Edward Harris,Brasília,Cartão de Crédito,39.72,,3978.8599999999997
+79836667,2026-02-21 21:33:48.364680,Roteador Wi-Fi,1129.64,5,David Webb,Manaus,Boleto,9.24,4.0,5657.4400000000005
+90435561,2026-03-14 21:33:48.364806,Notebook Pro,319.9,3,Lucas Tucker,Manaus,Boleto,15.48,3.0,975.18
+92055826,2026-01-05 21:33:48.364932,"Monitor 24""",829.61,2,Jessica Harvey,Rio de Janeiro,Pix,40.68,2.0,1699.9
+93119095,2026-04-16 21:33:48.365061,Caixa de Som,1803.1,5,Matthew Collins,Rio de Janeiro,Pix,6.68,5.0,9022.18
+89006443,2026-03-20 21:33:48.365195,Fone de Ouvido Bluetooth,1571.24,3,Marissa Estes,Brasília,Débito,23.74,1.0,4737.46
+53828140,2026-02-09 21:33:48.365333,SSD 500GB,1322.92,5,Michael Anderson,São Paulo,Débito,7.44,5.0,6622.04
+13086563,2025-12-23 21:33:48.365460,Carregador Portátil,1102.86,2,Michael Jackson,Brasília,Boleto,11.89,,2217.6099999999997
+72936750,2026-03-23 21:33:48.365585,Mouse Sem Fio,1518.04,5,Christopher Harrington,Fortaleza,Cartão de Crédito,14.99,3.0,7605.19
+27892673,2026-03-23 21:33:48.365713,Notebook Pro,307.77,1,Casey Swanson,Recife,Cartão de Crédito,29.67,3.0,337.44
+25059034,2026-01-03 21:33:48.365843,Capinha para Celular,1028.56,2,Mark Johnson,Belo Horizonte,Débito,30.17,4.0,2087.29
+77404816,2026-03-24 21:33:48.365969,HD Externo 1TB,1164.09,5,Terri Patterson,Manaus,Boleto,15.9,3.0,5836.349999999999
+75118942,2026-04-02 21:33:48.366098,Carregador Portátil,1385.24,5,Anthony Boyd,Rio de Janeiro,Cartão de Crédito,35.23,4.0,6961.429999999999
+49246864,2026-03-16 21:33:48.366225,Carregador Portátil,421.45,3,Olivia Watson,Manaus,Cartão de Crédito,39.64,2.0,1303.99
+20485985,2026-03-12 21:33:48.366361,"Monitor 24""",1652.09,4,Ashley Davis,Manaus,Boleto,24.82,2.0,6633.179999999999
+87991820,2026-02-02 21:33:48.366491,HD Externo 1TB,778.95,1,Stacy Gutierrez,Rio de Janeiro,Cartão de Crédito,15.94,5.0,794.8900000000001
+45550441,2026-01-19 21:33:48.366620,Caixa de Som,1673.27,3,Rebecca Stewart,São Paulo,Pix,36.22,1.0,5056.03
+48188085,2026-03-01 21:33:48.366752,Mouse Sem Fio,968.82,3,Shane Serrano MD,Porto Alegre,Boleto,14.17,5.0,2920.63
+29651559,2026-02-17 21:33:48.366885,Teclado Mecânico,991.9,2,Sara Stevens,São Paulo,Débito,31.24,,2015.04
+77239763,2026-04-26 21:33:48.367014,Smartphone X,548.14,1,Rebecca Russell,Curitiba,Boleto,40.51,5.0,588.65
+32574390,2026-02-20 21:33:48.367150,Smartphone X,956.67,1,Matthew Thompson,Rio de Janeiro,Débito,34.72,,991.39
+92592506,2026-05-30 21:33:48.367277,Carregador Portátil,1735.35,1,Stephen Hart,Curitiba,Débito,15.4,4.0,1750.75
+8710386,2026-04-22 21:33:48.367430,SSD 500GB,244.23,3,Michelle Carter,Recife,Cartão de Crédito,13.39,5.0,746.0799999999999
+41128602,2026-04-09 21:33:48.367562,Teclado Mecânico,1856.38,1,Jason Foley,São Paulo,Boleto,46.5,3.0,1902.88
+29337434,2026-03-08 21:33:48.367689,Mouse Sem Fio,817.13,2,Mark Garcia,São Paulo,Pix,35.79,3.0,1670.05
+95890919,2026-05-22 21:33:48.367820,Tablet Mini,510.6,5,April Robinson,Curitiba,Cartão de Crédito,33.16,4.0,2586.16
+38706017,2025-12-20 21:33:48.367966,Teclado Mecânico,1900.78,2,Michael Davis,Belo Horizonte,Pix,45.37,,3846.93
+55576721,2026-01-17 21:33:48.368118,Fone de Ouvido Bluetooth,1473.28,5,Christine Johnson,Manaus,Boleto,23.78,5.0,7390.179999999999
+84696117,2026-01-21 21:33:48.368251,Capinha para Celular,1942.55,5,Dawn Wallace,Brasília,Débito,29.4,2.0,9742.15
+77912426,2026-05-29 21:33:48.368387,Notebook Pro,1183.01,2,Elizabeth Martinez,Belo Horizonte,Pix,35.98,5.0,2402.0
+25623716,2026-01-16 21:33:48.368518,Capinha para Celular,1991.59,2,Keith Young,Manaus,Boleto,19.29,5.0,4002.47
+52839011,2026-04-28 21:33:48.368645,SSD 500GB,280.86,3,Travis Pierce,Belo Horizonte,Cartão de Crédito,39.44,4.0,882.02
+85292162,2026-03-28 21:33:48.368773,Tablet Mini,913.86,3,Selena Lewis,Belo Horizonte,Boleto,9.8,2.0,2751.38
+12545553,2025-12-19 21:33:48.368903,Câmera Digital,1972.61,5,Derrick Adams,Curitiba,Boleto,31.84,2.0,9894.89
+92341689,2026-06-06 21:33:48.369030,Smartphone X,750.56,4,Matthew Barrett,Belo Horizonte,Débito,37.04,3.0,3039.2799999999997
+95539898,2026-01-29 21:33:48.369166,Caixa de Som,805.55,4,Heather Rowe,Belo Horizonte,Boleto,13.7,1.0,3235.8999999999996
+18706625,2026-03-27 21:33:48.369298,Câmera Digital,1939.19,3,Brenda Phillips,Salvador,Boleto,38.41,2.0,5855.98
+7261429,2026-02-03 21:33:48.369445,Fone de Ouvido Bluetooth,395.3,4,Jade Berg,Manaus,Débito,35.95,4.0,1617.15
+66175336,2026-02-14 21:33:48.369576,Capinha para Celular,839.49,1,Evan Price,Manaus,Débito,37.41,4.0,876.9
+29370497,2026-05-18 21:33:48.369704,SSD 500GB,1165.27,5,Tyler Le,Fortaleza,Cartão de Crédito,28.43,4.0,5854.780000000001
+26464990,2026-04-08 21:33:48.369831,Caixa de Som,1761.65,2,Michael Wilson,Fortaleza,Débito,49.27,1.0,3572.57
+92185148,2026-05-04 21:33:48.369958,Capinha para Celular,1056.45,1,Roger Willis,Porto Alegre,Pix,24.78,3.0,1081.23
+42326159,2026-02-24 21:33:48.370085,Mouse Sem Fio,374.65,3,Richard Gonzalez,Manaus,Cartão de Crédito,36.05,2.0,1159.9999999999998
+4561354,2026-04-10 21:33:48.370213,Caixa de Som,1309.9,1,Elizabeth Gomez,Fortaleza,Cartão de Crédito,13.09,5.0,1322.99
+32583180,2026-06-09 21:33:48.370352,Teclado Mecânico,313.85,4,Shawna Lewis,Brasília,Débito,6.12,4.0,1261.52
+28953893,2026-05-13 21:33:48.370485,Roteador Wi-Fi,1439.64,2,Angelica Estrada,Recife,Cartão de Crédito,16.25,,2895.53
+91180287,2026-05-28 21:33:48.370615,Roteador Wi-Fi,1437.37,2,Michael Cook,Rio de Janeiro,Cartão de Crédito,10.14,4.0,2884.8799999999997
+53897338,2026-05-24 21:33:48.370745,Carregador Portátil,216.35,4,Deanna Green,Fortaleza,Boleto,22.04,4.0,887.4399999999999
+8621858,2025-12-24 21:33:48.370887,Câmera Digital,383.23,3,Michael Patel,Manaus,Boleto,12.3,2.0,1161.99
+47786729,2026-01-27 21:33:48.371014,Câmera Digital,1438.49,4,Aaron Mullins,Curitiba,Pix,37.86,4.0,5791.82
+41845482,2026-02-24 21:33:48.371149,HD Externo 1TB,402.36,2,Erin Mcfarland,Porto Alegre,Cartão de Crédito,33.02,3.0,837.74
+62584271,2025-12-16 21:33:48.371279,Mouse Sem Fio,1020.37,4,Jackie Ramirez,Fortaleza,Cartão de Crédito,32.36,4.0,4113.84
+70458920,2026-02-11 21:33:48.371523,Smartwatch,1198.28,4,Daniel Wilson,Recife,Débito,24.88,5.0,4818.0
+24994766,2026-05-15 21:33:48.371742,Smartphone X,527.19,5,Jennifer Duncan,Curitiba,Boleto,7.2,2.0,2643.15
+30077300,2025-12-27 21:33:48.371943,HD Externo 1TB,730.59,2,Eric Davidson,São Paulo,Pix,19.9,1.0,1481.0800000000002
+28794782,2025-12-25 21:33:48.372157,Fone de Ouvido Bluetooth,863.07,2,Sara Torres,Belo Horizonte,Pix,32.5,,1758.64
+34136183,2026-06-10 21:33:48.372411,"Monitor 24""",1165.95,5,Mr. David Schaefer,Belo Horizonte,Débito,38.72,3.0,5868.47
+824488,2025-12-22 21:33:48.372615,Fone de Ouvido Bluetooth,1548.6,3,David Cruz,Brasília,Débito,41.91,4.0,4687.709999999999
+76460575,2026-05-02 21:33:48.372747,Fone de Ouvido Bluetooth,621.02,2,Robert Stout,Rio de Janeiro,Pix,19.81,4.0,1261.85
+30057902,2026-04-26 21:33:48.372874,Smartwatch,1406.87,5,Chad Gill,São Paulo,Cartão de Crédito,30.71,,7065.0599999999995
+79518140,2026-04-27 21:33:48.373001,Fone de Ouvido Bluetooth,993.14,5,Christine Davila,Curitiba,Débito,32.4,3.0,4998.099999999999
+24950681,2026-02-17 21:33:48.373144,Teclado Mecânico,1171.53,5,Jonathan Hawkins,Brasília,Boleto,32.64,4.0,5890.29
+21699467,2026-04-25 21:33:48.373272,SSD 500GB,1282.12,4,Erica Peterson,Belo Horizonte,Boleto,36.89,2.0,5165.37
+62055308,2025-12-13 21:33:48.373434,Fone de Ouvido Bluetooth,96.77,1,Seth Vazquez,Porto Alegre,Débito,23.63,3.0,120.39999999999999
+88881585,2026-03-12 21:33:48.373563,Teclado Mecânico,1621.78,2,Dr. Teresa Gonzalez,São Paulo,Boleto,36.05,3.0,3279.61
+32530301,2025-12-30 21:33:48.373702,Tablet Mini,635.55,5,Christine Norton,Brasília,Cartão de Crédito,10.12,3.0,3187.87
+89725784,2026-03-10 21:33:48.373832,Capinha para Celular,1462.57,5,Raymond Underwood,São Paulo,Boleto,13.73,3.0,7326.579999999999
+50616985,2026-06-03 21:33:48.373959,Mouse Sem Fio,1836.52,1,Nicole Carson,Belo Horizonte,Débito,11.99,4.0,1848.51
+21470690,2026-04-29 21:33:48.374088,Roteador Wi-Fi,703.46,4,Debra Chase,São Paulo,Pix,30.42,,2844.26
+85932076,2026-03-03 21:33:48.374218,Teclado Mecânico,1094.98,2,Zachary Sawyer,Manaus,Pix,40.98,3.0,2230.94
+44271722,2025-12-29 21:33:48.374345,Notebook Pro,596.9,1,Dr. Cassie Gray,Brasília,Débito,33.19,2.0,630.0899999999999
+90207461,2026-05-08 21:33:48.374480,"Monitor 24""",809.65,5,Samuel Mclaughlin,Rio de Janeiro,Pix,36.74,3.0,4084.99
+51186048,2025-12-21 21:33:48.374607,Tablet Mini,857.05,4,Mr. Jamie Johnson,Porto Alegre,Pix,25.34,3.0,3453.54
+43455032,2026-02-06 21:33:48.374742,Teclado Mecânico,639.52,1,Amber Tucker,Brasília,Cartão de Crédito,40.0,1.0,679.52
+22538778,2026-04-05 21:33:48.374871,Teclado Mecânico,98.62,4,Kelly Cook,Fortaleza,Boleto,13.56,4.0,408.04
+46418032,2026-04-26 21:33:48.375000,Tablet Mini,1562.29,2,Brandon Davis,Rio de Janeiro,Boleto,14.23,1.0,3138.81
+13475832,2026-04-09 21:33:48.375140,Capinha para Celular,1441.67,5,Linda Brown,Rio de Janeiro,Cartão de Crédito,18.99,1.0,7227.34
+73654244,2026-06-06 21:33:48.375269,Caixa de Som,1208.86,1,Julia Oliver,Brasília,Débito,45.01,1.0,1253.87
+66088390,2026-04-25 21:33:48.375439,Câmera Digital,1335.02,3,Adrienne Thompson,São Paulo,Pix,33.75,2.0,4038.81
+23352108,2026-03-05 21:33:48.375582,Smartwatch,425.46,3,Daniel Cruz,Fortaleza,Pix,39.78,,1316.1599999999999
+91346484,2026-01-12 21:33:48.375716,Tablet Mini,341.18,3,Jennifer Bradshaw,Rio de Janeiro,Cartão de Crédito,48.12,5.0,1071.6599999999999
+74056105,2026-04-23 21:33:48.375848,Fone de Ouvido Bluetooth,452.83,3,Jacob Garcia,Fortaleza,Pix,17.2,,1375.69
+20221263,2026-02-23 21:33:48.375978,"Monitor 24""",527.41,1,Stephen Henderson,Curitiba,Pix,29.33,1.0,556.74
+55058692,2026-01-15 21:33:48.376104,Smartphone X,967.93,1,Christopher Smith,Rio de Janeiro,Débito,7.42,4.0,975.3499999999999
+35061768,2026-03-23 21:33:48.376231,Notebook Pro,1424.12,5,William Moore,Recife,Pix,19.06,2.0,7139.66
+95617604,2026-06-02 21:33:48.376360,Câmera Digital,1090.3,4,Leslie Campbell,Manaus,Boleto,9.18,,4370.38
+70289954,2026-04-11 21:33:48.376489,Fone de Ouvido Bluetooth,938.39,4,Sharon Ford,Recife,Boleto,47.64,2.0,3801.2
+30768198,2026-05-19 21:33:48.376618,Tablet Mini,1830.08,4,Gary Gonzalez,Belo Horizonte,Pix,40.5,3.0,7360.82
+47695141,2026-04-08 21:33:48.376746,Mouse Sem Fio,109.02,4,Julian Davis,Rio de Janeiro,Pix,26.54,2.0,462.62
+89096211,2026-02-23 21:33:48.376871,Câmera Digital,729.8,5,Gregory Ho,Belo Horizonte,Cartão de Crédito,23.26,,3672.26
+96870611,2026-01-09 21:33:48.376997,Carregador Portátil,1134.49,1,Melanie Hurst,Curitiba,Débito,23.04,4.0,1157.53
+18762905,2026-02-12 21:33:48.377140,"Monitor 24""",525.2,2,Ashley Stout,Recife,Débito,7.97,2.0,1058.3700000000001
+74341922,2026-06-08 21:33:48.377269,"Monitor 24""",890.74,4,Cynthia Rose,Manaus,Pix,29.5,2.0,3592.46
+80126441,2026-01-26 21:33:48.377446,HD Externo 1TB,1355.73,5,Matthew Williams,Recife,Cartão de Crédito,31.65,4.0,6810.299999999999
+2095012,2026-03-06 21:33:48.377585,Teclado Mecânico,240.43,4,Jason Johnson,Belo Horizonte,Pix,48.01,1.0,1009.73
+21762565,2026-05-15 21:33:48.377724,Fone de Ouvido Bluetooth,1386.74,5,Amanda Mendoza,Salvador,Pix,27.24,,6960.94
+8467979,2025-12-28 21:33:48.377855,Fone de Ouvido Bluetooth,474.34,2,Bradley Whitaker,Manaus,Cartão de Crédito,39.07,,987.75
+16157731,2026-01-20 21:33:48.377982,Mouse Sem Fio,1085.95,4,Stacey Osborn,Manaus,Débito,13.8,,4357.6
+47494797,2026-03-04 21:33:48.378112,Tablet Mini,1162.04,3,Christopher Bowman,Salvador,Pix,49.56,5.0,3535.68
+41206902,2025-12-15 21:33:48.378240,"Monitor 24""",1973.52,4,Kelly Keith,Belo Horizonte,Pix,7.81,5.0,7901.89
+61057771,2025-12-26 21:33:48.378369,Smartphone X,1421.54,3,Margaret Garrison,Rio de Janeiro,Pix,43.96,2.0,4308.58
+68784830,2026-04-02 21:33:48.378498,SSD 500GB,1200.82,3,Rebecca Thomas,Salvador,Débito,22.17,5.0,3624.63
+77182540,2026-02-05 21:33:48.378627,HD Externo 1TB,388.15,2,Kimberly Wilson,Porto Alegre,Débito,42.95,3.0,819.25
+63941665,2026-03-29 21:33:48.378763,Notebook Pro,612.52,2,Megan Martinez,Belo Horizonte,Cartão de Crédito,8.23,1.0,1233.27
+40126344,2026-01-18 21:33:48.378892,SSD 500GB,1775.53,4,Jaime Richards,Belo Horizonte,Cartão de Crédito,11.17,4.0,7113.29
+4070192,2026-04-08 21:33:48.379022,Roteador Wi-Fi,1588.41,5,Tony Berg,Salvador,Boleto,25.45,4.0,7967.5
+60206055,2026-05-03 21:33:48.379158,Caixa de Som,927.59,3,Zachary Goodman,Porto Alegre,Boleto,24.11,1.0,2806.88
+43017678,2026-05-09 21:33:48.379284,Mouse Sem Fio,1701.27,2,Corey Clayton,Fortaleza,Pix,23.49,5.0,3426.0299999999997
+64280266,2026-05-09 21:33:48.379413,Carregador Portátil,115.25,1,Christopher Hunt,Manaus,Débito,36.72,1.0,151.97
+97259754,2026-05-10 21:33:48.379540,Mouse Sem Fio,1925.39,1,Troy Hill,Belo Horizonte,Pix,25.92,1.0,1951.3100000000002
+62141767,2026-04-25 21:33:48.379666,Roteador Wi-Fi,1239.64,2,Jason Ramirez,Recife,Cartão de Crédito,35.78,5.0,2515.0600000000004
+89972500,2026-05-10 21:33:48.379792,Tablet Mini,1245.43,3,Lindsey Fuller,Fortaleza,Cartão de Crédito,26.1,5.0,3762.39
+76365289,2026-04-12 21:33:48.379921,"Monitor 24""",1480.94,4,Ronald Webb,Brasília,Pix,18.01,1.0,5941.77
+90392245,2026-06-08 21:33:48.380048,Roteador Wi-Fi,1215.39,3,Patrick Brown,Manaus,Pix,7.76,4.0,3653.9300000000003
+11626369,2026-05-10 21:33:48.380174,Notebook Pro,1167.08,3,Aaron Waller,Manaus,Cartão de Crédito,17.91,1.0,3519.1499999999996
+92629354,2026-01-14 21:33:48.380304,Teclado Mecânico,199.88,3,Danielle Hart,Curitiba,Boleto,32.71,3.0,632.35
+27969447,2026-02-16 21:33:48.380435,Smartphone X,1495.79,5,Lori Farrell,Belo Horizonte,Boleto,34.66,3.0,7513.61
+6555698,2026-01-26 21:33:48.380566,Tablet Mini,1575.93,2,Seth Cline,Recife,Boleto,40.97,1.0,3192.83
+85150472,2026-03-10 21:33:48.380696,Fone de Ouvido Bluetooth,1936.32,5,Dustin Roach,Belo Horizonte,Débito,38.87,4.0,9720.470000000001
+45547065,2026-03-21 21:33:48.380823,Smartwatch,1338.3,2,Keith Gordon,Porto Alegre,Pix,7.44,3.0,2684.04
+9002758,2026-01-11 21:33:48.380950,Smartphone X,376.82,4,Justin Armstrong,Recife,Pix,26.43,5.0,1533.71
+7876389,2026-02-10 21:33:48.381077,Capinha para Celular,1382.84,4,Cody Schwartz,Recife,Pix,11.53,4.0,5542.889999999999
+33178432,2025-12-16 21:33:48.381210,Tablet Mini,1858.08,4,Suzanne Alexander,Salvador,Pix,48.28,,7480.599999999999
+72678703,2025-12-23 21:33:48.381339,Fone de Ouvido Bluetooth,1839.54,3,Jeremy Reyes,Salvador,Pix,20.07,3.0,5538.69
+25061762,2026-01-07 21:33:48.381469,Tablet Mini,1325.97,4,Sonya Baxter DVM,Recife,Boleto,38.04,5.0,5341.92
+8391476,2026-01-31 21:33:48.381605,Teclado Mecânico,707.94,2,Cody Nash,Brasília,Cartão de Crédito,35.28,1.0,1451.16
+17430443,2025-12-16 21:33:48.381736,Capinha para Celular,240.51,1,Mrs. Anna White,Recife,Pix,14.87,3.0,255.38
+78876845,2026-02-15 21:33:48.381871,Smartwatch,116.38,5,Kenneth Buckley,Rio de Janeiro,Cartão de Crédito,47.23,,629.13
+45497577,2026-02-06 21:33:48.381998,"Monitor 24""",1294.26,1,Nicholas Holt,Rio de Janeiro,Boleto,21.92,,1316.18
+42952589,2026-05-06 21:33:48.382125,Câmera Digital,1935.97,1,Laura Austin,Belo Horizonte,Pix,18.26,,1954.23
+75804880,2026-01-01 21:33:48.382254,HD Externo 1TB,934.22,3,Melanie Davila,Salvador,Pix,16.58,1.0,2819.24
+97898601,2026-02-21 21:33:48.382434,Câmera Digital,171.66,4,Savannah Avery,Brasília,Cartão de Crédito,16.62,3.0,703.26
+48449973,2026-01-27 21:33:48.382614,Mouse Sem Fio,185.33,2,Teresa Thomas,Manaus,Débito,13.03,4.0,383.69
+18476135,2026-01-09 21:33:48.382824,Notebook Pro,1104.23,4,Sheri Bell,Porto Alegre,Cartão de Crédito,46.07,,4462.99
+46759944,2026-02-17 21:33:48.382977,Fone de Ouvido Bluetooth,117.98,1,Christopher Arnold,Manaus,Pix,39.98,1.0,157.96
+91454127,2026-04-19 21:33:48.383126,Notebook Pro,1323.09,1,Kyle Savage,São Paulo,Débito,16.99,,1340.08
+52259952,2026-03-07 21:33:48.383255,Roteador Wi-Fi,813.09,1,Corey Riley,Fortaleza,Débito,26.52,4.0,839.61
+23056794,2025-12-30 21:33:48.383386,Teclado Mecânico,490.4,4,Susan Pratt,Recife,Cartão de Crédito,30.53,3.0,1992.1299999999999
+27437099,2026-03-08 21:33:48.383518,HD Externo 1TB,640.51,1,Tiffany Christensen,Rio de Janeiro,Pix,29.06,3.0,669.5699999999999
+49274368,2026-01-02 21:33:48.383649,Caixa de Som,946.3,3,Pamela Bradshaw,Porto Alegre,Boleto,29.95,4.0,2868.8499999999995
+69280159,2026-05-31 21:33:48.383781,Smartwatch,632.8,4,Robert Wyatt,Rio de Janeiro,Pix,26.89,,2558.0899999999997
+50343747,2026-04-04 21:33:48.383909,SSD 500GB,419.46,1,Allison Myers,Porto Alegre,Cartão de Crédito,37.39,5.0,456.84999999999997
+15580656,2026-02-12 21:33:48.384038,Mouse Sem Fio,808.1,5,John Jones,Curitiba,Débito,29.03,4.0,4069.53
+99655790,2025-12-17 21:33:48.384165,Smartphone X,711.61,3,Carolyn Charles,São Paulo,Débito,10.32,,2145.15
+55207491,2026-06-01 21:33:48.384295,Teclado Mecânico,943.82,5,Shannon Brown,Belo Horizonte,Boleto,46.62,1.0,4765.72
+29440260,2026-01-18 21:33:48.384426,Mouse Sem Fio,1324.97,4,Timothy Smith,Manaus,Cartão de Crédito,15.92,,5315.8
+18418424,2026-01-15 21:33:48.384557,Smartphone X,385.89,1,Maria Webb,Curitiba,Cartão de Crédito,25.53,2.0,411.41999999999996
+6732231,2026-05-13 21:33:48.384686,Fone de Ouvido Bluetooth,1644.71,1,Andrew Barron,Rio de Janeiro,Débito,31.77,5.0,1676.48
+15312312,2026-02-07 21:33:48.384815,Fone de Ouvido Bluetooth,1618.68,4,Dennis Brown,Brasília,Débito,19.59,,6494.31
+3099286,2026-05-09 21:33:48.384943,Teclado Mecânico,317.79,2,Joseph Rodriguez,São Paulo,Boleto,20.1,1.0,655.6800000000001
+67395355,2026-02-21 21:33:48.385071,Notebook Pro,1527.22,2,David Hall,Brasília,Boleto,24.74,5.0,3079.18
+8857337,2025-12-23 21:33:48.385206,Notebook Pro,244.94,5,Daniel Williams,Salvador,Boleto,5.7,4.0,1230.4
+2835395,2026-01-02 21:33:48.385333,Smartphone X,64.09,1,Adam Landry,Manaus,Pix,23.73,4.0,87.82000000000001
+43371429,2026-06-08 21:33:48.385460,Notebook Pro,452.01,3,Brian Saunders,Fortaleza,Débito,23.54,2.0,1379.57
+92097297,2026-05-18 21:33:48.385591,SSD 500GB,123.36,2,Chase Allison,Recife,Cartão de Crédito,33.22,3.0,279.94
+61343072,2026-03-12 21:33:48.385722,Capinha para Celular,58.91,2,Daniel Griffith,Porto Alegre,Cartão de Crédito,49.4,1.0,167.22
+31389567,2026-05-20 21:33:48.385850,Carregador Portátil,1732.33,5,Daniel Anderson Jr.,Fortaleza,Boleto,25.89,,8687.539999999999
+66622302,2026-05-30 21:33:48.385985,Smartwatch,589.03,2,Timothy Andrade,Rio de Janeiro,Boleto,35.84,4.0,1213.8999999999999
+18046248,2026-04-19 21:33:48.386112,Notebook Pro,361.53,1,Mr. Christopher Lopez III,São Paulo,Pix,17.83,4.0,379.35999999999996
+29160562,2026-02-15 21:33:48.386251,Carregador Portátil,1252.8,4,Ryan Ashley,São Paulo,Cartão de Crédito,38.32,5.0,5049.5199999999995
+20353910,2026-01-27 21:33:48.386380,Notebook Pro,1581.71,4,Jeffery Lee,Fortaleza,Cartão de Crédito,8.19,2.0,6335.03
+22569294,2026-04-05 21:33:48.386505,"Monitor 24""",1180.54,4,Cynthia Miller,Porto Alegre,Pix,15.35,1.0,4737.51
+49057232,2026-03-06 21:33:48.386635,Smartwatch,241.23,4,James Johnston,Porto Alegre,Débito,45.11,1.0,1010.03
+85046652,2026-04-12 21:33:48.386761,"Monitor 24""",994.6,4,Kristopher Lopez,Belo Horizonte,Boleto,46.75,4.0,4025.15
+50015435,2026-01-27 21:33:48.386892,Capinha para Celular,778.3,4,Jeffrey Gilbert,Porto Alegre,Pix,48.9,2.0,3162.1
+83869711,2026-03-08 21:33:48.387018,Notebook Pro,112.58,5,Adam Deleon,São Paulo,Pix,11.14,4.0,574.04
+79286502,2026-04-09 21:33:48.387152,Capinha para Celular,383.84,3,Rhonda Gutierrez,Porto Alegre,Pix,32.16,,1183.68
+10575343,2026-05-18 21:33:48.387282,Roteador Wi-Fi,381.37,5,Jordan Morales,Porto Alegre,Cartão de Crédito,23.53,5.0,1930.3799999999999
+89997164,2026-04-17 21:33:48.387470,Caixa de Som,1991.55,5,Barbara Holmes,Recife,Débito,17.56,,9975.31
+42576454,2026-04-01 21:33:48.387607,SSD 500GB,1751.57,2,Amanda Martin,Brasília,Débito,31.08,5.0,3534.22
+71909618,2026-01-20 21:33:48.387737,Roteador Wi-Fi,1168.72,1,Jeffrey Rios DVM,Salvador,Cartão de Crédito,6.8,4.0,1175.52
+81414826,2026-04-21 21:33:48.387871,Smartphone X,880.11,4,Amy Galloway,Recife,Cartão de Crédito,25.36,2.0,3545.8
+33139323,2026-01-03 21:33:48.388001,Teclado Mecânico,1518.5,4,Jason Hodge,Porto Alegre,Boleto,21.13,2.0,6095.13
+48511391,2026-05-27 21:33:48.388133,Fone de Ouvido Bluetooth,81.06,3,John Baxter,Belo Horizonte,Débito,43.61,,286.79
+12150533,2026-05-11 21:33:48.388261,Smartphone X,1954.02,4,Tara Williams,Belo Horizonte,Débito,13.32,3.0,7829.4
+52663781,2026-05-22 21:33:48.388640,Mouse Sem Fio,1422.61,1,Shannon Lee,Rio de Janeiro,Débito,45.2,3.0,1467.81
+22195589,2026-04-27 21:33:48.388879,Smartphone X,628.35,3,Jessica Campbell,Manaus,Boleto,40.45,1.0,1925.5000000000002
+39193428,2026-05-20 21:33:48.389081,Roteador Wi-Fi,704.6,1,Linda Gilbert,Fortaleza,Pix,44.96,1.0,749.5600000000001
+1742087,2026-03-21 21:33:48.389276,Carregador Portátil,957.44,1,William Miller,Brasília,Pix,12.89,5.0,970.33
+57956253,2026-06-11 21:33:48.389483,Fone de Ouvido Bluetooth,1143.48,2,Jeffrey Taylor,Belo Horizonte,Pix,15.74,1.0,2302.7
+64004833,2026-05-28 21:33:48.389673,Mouse Sem Fio,1487.89,5,Virginia Reed,Porto Alegre,Boleto,19.42,3.0,7458.870000000001
+15785550,2026-04-20 21:33:48.389868,HD Externo 1TB,874.71,1,Timothy Brady,Rio de Janeiro,Pix,20.54,4.0,895.25
+3860088,2026-04-20 21:33:48.390057,Teclado Mecânico,1667.64,4,Brian Lopez,Fortaleza,Pix,25.34,3.0,6695.900000000001
+40511068,2026-06-03 21:33:48.390244,SSD 500GB,1627.15,1,Mr. Adam Johnson,Porto Alegre,Débito,8.93,4.0,1636.0800000000002
+1272451,2026-01-27 21:33:48.390449,Tablet Mini,1918.6,1,Richard Hubbard,Rio de Janeiro,Boleto,17.42,,1936.02
+8561094,2026-01-19 21:33:48.390636,Mouse Sem Fio,343.47,2,Christian Smith,Fortaleza,Cartão de Crédito,18.19,,705.1300000000001
+48343165,2026-04-30 21:33:48.390774,Roteador Wi-Fi,307.45,3,Jennifer Mendoza,Salvador,Débito,38.2,1.0,960.55
+99386300,2026-02-25 21:33:48.390903,Smartwatch,172.75,2,Nicholas Garcia,Fortaleza,Pix,23.53,3.0,369.03
+30765889,2026-05-29 21:33:48.391039,HD Externo 1TB,1584.31,4,Brad Robinson,Manaus,Débito,25.61,5.0,6362.849999999999
+60963382,2026-01-15 21:33:48.391166,Roteador Wi-Fi,1589.23,2,Travis Fox,Curitiba,Boleto,26.79,3.0,3205.25
+3553799,2025-12-25 21:33:48.391369,Notebook Pro,738.59,4,Suzanne Barnett,Belo Horizonte,Boleto,37.03,3.0,2991.3900000000003
+49533100,2026-01-28 21:33:48.391747,Notebook Pro,1686.7,2,Julie Davis,Belo Horizonte,Boleto,10.26,3.0,3383.6600000000003
+90595860,2026-05-09 21:33:48.392015,Notebook Pro,909.73,3,Alicia Tran,Belo Horizonte,Boleto,30.31,1.0,2759.5
+45800374,2026-06-01 21:33:48.392258,Carregador Portátil,1957.14,2,Mary Brown,Brasília,Débito,29.29,2.0,3943.57
+15119467,2026-04-28 21:33:48.392556,Tablet Mini,286.91,1,Aaron Gamble,Salvador,Débito,39.58,4.0,326.49
+9730909,2026-03-04 21:33:48.392731,Notebook Pro,58.37,5,Jonathon Lewis,Fortaleza,Pix,34.13,3.0,325.97999999999996
+70686061,2026-04-13 21:33:48.392869,Roteador Wi-Fi,615.16,5,Gregory Booth,Belo Horizonte,Débito,20.24,1.0,3096.0399999999995
+54744233,2026-04-14 21:33:48.392999,Roteador Wi-Fi,128.16,5,Steven Klein,Rio de Janeiro,Pix,6.12,5.0,646.92
+73434698,2026-02-07 21:33:48.393141,Mouse Sem Fio,746.92,3,Edward Schneider,São Paulo,Boleto,31.25,2.0,2272.0099999999998
+77287740,2026-02-22 21:33:48.393269,Smartwatch,93.97,5,Ronald Harrison,Recife,Cartão de Crédito,48.91,4.0,518.76
+25379561,2026-01-31 21:33:48.393423,Mouse Sem Fio,669.63,5,Steven Suarez,Fortaleza,Cartão de Crédito,45.88,3.0,3394.03
+80157068,2026-03-24 21:33:48.393552,Notebook Pro,1446.13,4,Jo Brown,Brasília,Débito,21.78,3.0,5806.3
+23886571,2026-03-11 21:33:48.393687,Carregador Portátil,650.77,4,Tracy Dorsey,Fortaleza,Cartão de Crédito,14.71,4.0,2617.79
+85109730,2026-03-29 21:33:48.393817,Câmera Digital,912.88,2,Wayne Moran,Salvador,Débito,11.28,5.0,1837.04
+33940555,2026-05-15 21:33:48.393944,Fone de Ouvido Bluetooth,330.1,3,Thomas Shah,Recife,Pix,7.98,5.0,998.2800000000001
+6761118,2026-03-19 21:33:48.394070,Fone de Ouvido Bluetooth,62.91,3,Brenda Garcia,Salvador,Boleto,30.01,,218.73999999999998
+14952613,2026-05-07 21:33:48.394199,Câmera Digital,1834.0,2,David Roberts,Belo Horizonte,Débito,18.03,4.0,3686.03
+607141,2025-12-23 21:33:48.394325,Caixa de Som,1661.18,5,Susan Sanchez,Curitiba,Débito,30.17,4.0,8336.07
+92832590,2026-02-08 21:33:48.394456,Smartphone X,1592.88,2,Joseph Walsh,Curitiba,Pix,48.02,,3233.78
+64898511,2026-04-12 21:33:48.394583,Fone de Ouvido Bluetooth,1324.94,3,Chad Garcia,Salvador,Boleto,27.13,,4001.9500000000003
+43021065,2026-05-27 21:33:48.394712,Smartwatch,105.46,3,Michael Mueller,Recife,Cartão de Crédito,31.95,3.0,348.33
+76624931,2026-05-10 21:33:48.394838,Mouse Sem Fio,1152.87,3,Brittany Gallagher,Recife,Cartão de Crédito,21.79,,3480.3999999999996
+63496723,2026-05-09 21:33:48.394973,Smartphone X,1698.3,2,Linda Franklin,Manaus,Cartão de Crédito,11.58,4.0,3408.18
+39412945,2026-06-08 21:33:48.395111,Notebook Pro,746.9,1,Katherine Butler,Curitiba,Pix,23.88,3.0,770.78
+82703778,2025-12-25 21:33:48.395240,Tablet Mini,618.74,1,Loretta Peterson,Fortaleza,Boleto,39.49,2.0,658.23
+48810877,2026-01-06 21:33:48.395372,"Monitor 24""",1517.63,5,Jennifer Trujillo,Brasília,Pix,42.21,,7630.360000000001
+93497269,2026-02-28 21:33:48.395500,Tablet Mini,1386.62,3,John Thompson,Rio de Janeiro,Pix,42.05,1.0,4201.91
+48348898,2026-01-17 21:33:48.395627,Teclado Mecânico,598.76,4,Robert Lyons,Salvador,Pix,46.44,2.0,2441.48
+2405561,2026-01-08 21:33:48.395752,Smartwatch,351.38,2,Deborah Snyder,Porto Alegre,Cartão de Crédito,23.78,1.0,726.54
+55511940,2026-01-11 21:33:48.395881,Caixa de Som,305.9,1,Michael Martin,Recife,Pix,19.02,3.0,324.91999999999996
+84218129,2026-01-17 21:33:48.396007,Caixa de Som,911.78,5,Kevin Santos,Fortaleza,Pix,12.75,3.0,4571.65
+59273537,2025-12-20 21:33:48.396133,SSD 500GB,1638.42,2,Cody Cowan,Belo Horizonte,Boleto,35.96,3.0,3312.8
+22466580,2026-01-14 21:33:48.396259,Smartwatch,303.93,1,Lisa Cruz,Salvador,Cartão de Crédito,8.5,4.0,312.43
+70515337,2026-04-02 21:33:48.396389,Smartphone X,432.88,1,David Jackson,Fortaleza,Cartão de Crédito,26.11,3.0,458.99
+371359,2025-12-24 21:33:48.396515,Fone de Ouvido Bluetooth,638.21,1,Douglas Cox PhD,Rio de Janeiro,Cartão de Crédito,46.4,2.0,684.61
+94647620,2026-05-12 21:33:48.396649,Roteador Wi-Fi,440.05,3,Daniel Harris,São Paulo,Cartão de Crédito,11.55,,1331.7
+76615312,2026-02-22 21:33:48.396775,"Monitor 24""",728.28,2,Grace Daniels,Fortaleza,Boleto,27.72,1.0,1484.28
+50721691,2026-01-07 21:33:48.396903,Caixa de Som,1177.36,1,Bryan Charles,Fortaleza,Boleto,37.21,3.0,1214.57
+3911201,2026-01-25 21:33:48.397034,Roteador Wi-Fi,1520.33,1,Melissa Brown,Rio de Janeiro,Boleto,46.42,,1566.75
+7323533,2026-04-13 21:33:48.397171,Carregador Portátil,1411.36,2,Brooke Wolfe,Recife,Cartão de Crédito,13.14,3.0,2835.8599999999997
+9556713,2026-03-20 21:33:48.397299,Capinha para Celular,467.83,2,Sara Tran,Salvador,Cartão de Crédito,39.26,3.0,974.92
+66502349,2026-01-13 21:33:48.397432,Mouse Sem Fio,265.12,2,Tyler Collins,Recife,Pix,36.71,5.0,566.95
+94162705,2025-12-23 21:33:48.397561,Fone de Ouvido Bluetooth,689.83,1,Kristin Mcdowell,Salvador,Pix,25.56,,715.39
+23772971,2026-03-02 21:33:48.397692,HD Externo 1TB,1953.55,4,Emily Gibson,Porto Alegre,Débito,18.08,4.0,7832.28
+41660230,2026-01-30 21:33:48.397821,Caixa de Som,185.74,4,Natalie Rodgers,Brasília,Boleto,5.58,,748.5400000000001
+58569065,2026-04-17 21:33:48.397950,HD Externo 1TB,255.09,4,Martha Beck,Fortaleza,Cartão de Crédito,10.36,4.0,1030.72
+15754051,2026-03-25 21:33:48.398078,SSD 500GB,1201.59,1,Joseph Warner,Belo Horizonte,Cartão de Crédito,21.37,2.0,1222.9599999999998
+26724717,2026-03-09 21:33:48.398204,Smartwatch,1210.17,4,Caitlin Harrison,Rio de Janeiro,Boleto,42.71,,4883.39
+35293009,2026-04-19 21:33:48.398341,Tablet Mini,1541.39,5,Allen Bishop,Manaus,Pix,39.03,,7745.9800000000005
+31055688,2026-03-25 21:33:48.398485,Carregador Portátil,977.86,5,Lisa Johnson,Salvador,Débito,28.01,2.0,4917.31
+43145287,2026-04-08 21:33:48.398615,Fone de Ouvido Bluetooth,288.27,4,Lucas Reynolds,Recife,Boleto,33.28,2.0,1186.36
+51810967,2025-12-20 21:33:48.398742,Fone de Ouvido Bluetooth,1488.71,1,Amy Torres,Recife,Cartão de Crédito,48.74,4.0,1537.45
+88631511,2026-05-16 21:33:48.398871,HD Externo 1TB,687.56,3,Christian Rojas,Manaus,Cartão de Crédito,39.21,,2101.89
+41950538,2026-04-25 21:33:48.398998,Câmera Digital,1009.77,4,Matthew Rice,Porto Alegre,Pix,34.79,4.0,4073.87
+28068951,2026-04-21 21:33:48.399133,Tablet Mini,1107.75,5,Stephen Parker,Fortaleza,Cartão de Crédito,47.87,1.0,5586.62
+56536788,2026-04-02 21:33:48.399260,Roteador Wi-Fi,1834.13,4,Teresa Murray,Recife,Pix,43.38,4.0,7379.900000000001
+11995528,2026-04-09 21:33:48.399391,Smartphone X,114.08,5,Jessica Smith,Curitiba,Boleto,27.12,2.0,597.52
+17726102,2026-03-02 21:33:48.399520,SSD 500GB,808.71,1,Jason Dillon,Manaus,Débito,34.7,,843.4100000000001
+93115453,2026-04-30 21:33:48.399647,"Monitor 24""",966.15,5,Laura Osborne,Belo Horizonte,Cartão de Crédito,22.61,4.0,4853.36
+93070001,2026-05-13 21:33:48.399779,Capinha para Celular,1253.03,3,Stephanie Miller,Curitiba,Pix,7.76,5.0,3766.8500000000004
+80368997,2025-12-24 21:33:48.399908,Notebook Pro,1682.02,3,Amy Hall,Manaus,Cartão de Crédito,39.43,,5085.49
+88334662,2026-03-10 21:33:48.400042,Capinha para Celular,239.83,3,Frederick Thompson,Brasília,Débito,20.81,,740.3
+13524126,2026-02-13 21:33:48.400169,Smartwatch,507.51,3,Margaret Sanchez,Manaus,Cartão de Crédito,45.97,1.0,1568.5
+23817413,2026-03-01 21:33:48.400297,Fone de Ouvido Bluetooth,708.31,1,Stephanie Fritz,Fortaleza,Pix,6.68,,714.9899999999999
+26919393,2026-03-31 21:33:48.400430,"Monitor 24""",1053.78,4,Mary Copeland,Curitiba,Cartão de Crédito,36.32,5.0,4251.44
+29998240,2025-12-18 21:33:48.400558,Carregador Portátil,786.59,4,Andrea Mejia,Brasília,Cartão de Crédito,41.37,1.0,3187.73
+96349179,2026-06-07 21:33:48.400689,HD Externo 1TB,451.52,4,Alexander White,Fortaleza,Pix,12.5,3.0,1818.58
+56390512,2026-03-16 21:33:48.400817,Capinha para Celular,443.43,1,Barbara Ortiz,Fortaleza,Boleto,17.93,1.0,461.36
+33934035,2026-02-27 21:33:48.400950,"Monitor 24""",833.95,2,James Fox,Manaus,Cartão de Crédito,37.3,5.0,1705.2
+68018408,2026-01-06 21:33:48.401077,"Monitor 24""",706.83,1,Dawn Chavez,Manaus,Débito,24.22,3.0,731.0500000000001
+29247372,2026-01-01 21:33:48.401213,HD Externo 1TB,1656.29,5,Aaron Ramirez,Curitiba,Débito,34.86,3.0,8316.310000000001
+18702188,2026-02-02 21:33:48.401339,Capinha para Celular,834.49,5,Kayla Gould,Fortaleza,Débito,35.22,5.0,4207.67
+8684716,2026-01-28 21:33:48.401512,Roteador Wi-Fi,86.28,5,Nicholas Rose,Belo Horizonte,Débito,14.58,,445.97999999999996
+27488434,2026-04-11 21:33:48.401708,Tablet Mini,1877.47,5,Austin Murphy,Manaus,Débito,47.06,,9434.41
+13134895,2026-05-22 21:33:48.401847,Smartphone X,1068.43,3,John Baker,Recife,Boleto,15.82,,3221.11
+4197206,2026-06-06 21:33:48.401976,Câmera Digital,635.54,4,Samantha Cruz,Salvador,Pix,43.71,1.0,2585.87
+85760539,2026-05-24 21:33:48.402108,Smartwatch,1699.64,3,Michelle Turner,Curitiba,Boleto,16.54,5.0,5115.46
+82341913,2026-02-11 21:33:48.402238,Capinha para Celular,515.04,2,Phillip Potter,Porto Alegre,Cartão de Crédito,16.05,3.0,1046.1299999999999
+72814748,2026-04-10 21:33:48.402368,Mouse Sem Fio,1141.66,4,Gabriel Williams,Salvador,Cartão de Crédito,14.09,3.0,4580.7300000000005
+41430775,2026-01-16 21:33:48.402495,Smartphone X,553.87,3,Ryan Johnson,Fortaleza,Boleto,33.99,1.0,1695.6000000000001
+75929742,2026-04-16 21:33:48.402621,Câmera Digital,88.82,1,Terry Hampton,Brasília,Pix,44.02,4.0,132.84
+70453535,2026-03-16 21:33:48.402761,HD Externo 1TB,1331.99,1,Bruce Dougherty,Salvador,Boleto,15.62,5.0,1347.61
+32142577,2026-04-20 21:33:48.402888,Roteador Wi-Fi,285.25,5,Jose Phillips,Fortaleza,Pix,27.34,1.0,1453.59
+83818639,2026-02-11 21:33:48.403017,"Monitor 24""",288.44,3,Holly Vaughn,Brasília,Débito,41.26,,906.5799999999999
+1305505,2026-02-11 21:33:48.403158,Roteador Wi-Fi,874.59,2,Jennifer Tapia,Rio de Janeiro,Boleto,14.63,3.0,1763.8100000000002
+76903243,2026-04-04 21:33:48.403287,Capinha para Celular,545.9,5,Brett Alexander,São Paulo,Débito,29.01,,2758.51
+42498445,2026-01-10 21:33:48.403480,Carregador Portátil,1114.2,4,Christopher Davis,Porto Alegre,Pix,44.57,2.0,4501.37
+58729760,2026-03-15 21:33:48.403618,Mouse Sem Fio,1445.56,3,Michele Sellers,São Paulo,Cartão de Crédito,42.87,,4379.55
+73686567,2025-12-26 21:33:48.403750,SSD 500GB,1839.04,2,Miss Linda Lopez MD,Curitiba,Débito,18.92,,3697.0
+71394024,2026-03-15 21:33:48.403894,Roteador Wi-Fi,1633.89,1,Elizabeth Hickman,Fortaleza,Boleto,43.59,4.0,1677.48
+74780403,2025-12-15 21:33:48.404025,Roteador Wi-Fi,1923.46,3,Lisa Kelly,Curitiba,Cartão de Crédito,47.13,2.0,5817.51
+77816525,2026-02-27 21:33:48.404156,Smartwatch,1725.86,2,Erica Lewis,Recife,Pix,44.58,,3496.2999999999997
+47536630,2026-03-27 21:33:48.404285,Câmera Digital,116.07,1,Jerome Bailey,Recife,Débito,38.16,3.0,154.23
+19253095,2026-03-31 21:33:48.404414,Roteador Wi-Fi,1841.17,1,Hector Taylor,Belo Horizonte,Pix,27.79,3.0,1868.96
+17560405,2026-03-30 21:33:48.404542,"Monitor 24""",1472.0,5,Robert Lang,Brasília,Débito,36.28,1.0,7396.28
+17847439,2026-05-26 21:33:48.404669,HD Externo 1TB,408.29,4,Ashlee Odonnell,Belo Horizonte,Cartão de Crédito,23.03,,1656.19
+37873065,2026-03-01 21:33:48.404801,Carregador Portátil,1172.83,1,Timothy Williams,Belo Horizonte,Boleto,28.24,,1201.07
+1820343,2026-01-15 21:33:48.404928,Caixa de Som,1208.33,4,Joe Humphrey,Brasília,Débito,26.53,,4859.849999999999
+69302031,2026-01-16 21:33:48.405055,Tablet Mini,388.28,5,John Nolan,Brasília,Pix,13.94,4.0,1955.34
+12215133,2026-03-17 21:33:48.405197,Notebook Pro,817.31,4,Steven Jones,Manaus,Boleto,5.93,1.0,3275.1699999999996
+68210080,2026-05-04 21:33:48.405329,HD Externo 1TB,1243.41,2,Rachael Griffin,Rio de Janeiro,Débito,13.92,,2500.7400000000002
+45582405,2026-01-25 21:33:48.405460,Smartphone X,832.02,4,Jeffrey Choi,Manaus,Pix,11.72,3.0,3339.7999999999997
+63110712,2026-01-25 21:33:48.405587,"Monitor 24""",278.83,5,Nicholas Reed,Salvador,Débito,42.23,4.0,1436.3799999999999
+67038084,2026-01-12 21:33:48.405717,Smartwatch,1441.45,2,Robert Jones,Curitiba,Pix,38.59,4.0,2921.4900000000002
+19043113,2026-01-15 21:33:48.405844,Capinha para Celular,1719.86,5,Anna Brown,Porto Alegre,Pix,37.7,2.0,8637.0
